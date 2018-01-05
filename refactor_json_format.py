@@ -30,10 +30,13 @@ for region_key, region_contents in data.items():
             for municipality_key, municipality_contents in sorted(municipality_item.items(), key=lambda x: x[0]):
                 modified_municipality_list[municipality_key] = municipality_contents
 
+        # sort by municipality name
         modified_dict[region_key]["province_list"][province_key]["municipality_list"] = OrderedDict(sorted(modified_municipality_list.items(), key=lambda x: x[0]))
 
+    # sort by province name
     modified_dict[region_key]["province_list"] = OrderedDict(sorted(modified_province_list.items(), key=lambda x: x[0]))
 
+# sort by region
 modified_dict = OrderedDict(sorted(modified_dict.items(), key=lambda x: x[0]))
 
 with open(NEW_JSON_FILE, "w") as outfile:
