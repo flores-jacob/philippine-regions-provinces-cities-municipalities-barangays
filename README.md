@@ -1,7 +1,7 @@
 # List of Philippine Regions, Provinces, Cities, Municipalities, and Barangays
 
 ### Download
-Get the version 3 file here: [philippine_provinces_cities_municipalities_and_barangays_2017.json](./philippine-regions-provinces-cities-municipalities-barangays/philippine_provinces_cities_municipalities_and_barangays_2016_v2.json)
+Get the version 3 file here: [philippine_provinces_cities_municipalities_and_barangays_2017.json](./philippine_provinces_cities_municipalities_and_barangays_2016_v2.json?raw=true)
 
 ### How to use, and notes on format
 
@@ -44,11 +44,11 @@ Short answer: Yes, it is accurate.
 
 Long answer:
 - It was definitely accurate as of 9 May 2016, the date of the 2016 Philippine elections. Or at least, it was as 
-accurate as the COMELEC records for that election. This data is available in the [version 2 file](./philippine-regions-provinces-cities-municipalities-barangays/philippine_provinces_cities_municipalities_and_barangays_2016_v2.json) .
+accurate as the COMELEC records for that election. This data is available in the [version 2 file](./philippine_provinces_cities_municipalities_and_barangays_2016_v2.json?raw=true) .
 - However, one major change that occured since then is the dissolution of the Negros Island Region (NIR) in the Visayas on
 August 9, 2017 ([source](https://en.wikipedia.org/wiki/Regions_of_the_Philippines#Defunct_regions)). Due to this dissolution, 
 the province of Negros Occidental reverted to Western Visayas (Region VI), and the province of Negros Oriental reverted 
-to Central Visayas (Region VII). This change is reflected in the [version 3 file](./philippine-regions-provinces-cities-municipalities-barangays/philippine_provinces_cities_municipalities_and_barangays_2017.json)
+to Central Visayas (Region VII). This change is reflected in the [version 3 file](./philippine_provinces_cities_municipalities_and_barangays_2017.json?raw=true)
 - The only warning we have for this resource is that if any municipalities or barangays have either been created, 
 renamed, moved, or destroyed since the 2016 elections, such changes would not be reflected on this resource. If you know
 of any such changes, feel free to make a pull request, so that we can have it fixed.
