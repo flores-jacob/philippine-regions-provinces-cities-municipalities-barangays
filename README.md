@@ -51,7 +51,10 @@ the province of Negros Occidental reverted to Western Visayas (Region VI), and t
 to Central Visayas (Region VII). This change is reflected in the [version 3 file](./philippine_provinces_cities_municipalities_and_barangays_2017.json?raw=true)
 - The only warning we have for this resource is that if any municipalities or barangays have either been created, 
 renamed, moved, or destroyed since the 2016 elections, such changes would not be reflected on this resource. If you know
-of any such changes, feel free to make a pull request, so that we can have it fixed.
+of any such changes, please file an issue, or better yet, make a pull request, so that we can have it fixed.
+
+### I've spotted some inaccuracies!
+- Please file an issue or make a pull request. I can also be reached at the email address associated with this github account.
 
 ### Obligatory disclaimer
 Data is provided as is and without guarantees.  It should however be fairly accurate, as it is based on the 2016 Comelec 
