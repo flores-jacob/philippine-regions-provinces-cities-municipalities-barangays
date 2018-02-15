@@ -1,7 +1,7 @@
 # List of Philippine Regions, Provinces, Cities, Municipalities, and Barangays
 
 ### Download
-Get the version 3 file here: [philippine_provinces_cities_municipalities_and_barangays_2017.json](./philippine_provinces_cities_municipalities_and_barangays_2016_v2.json?raw=true)
+Get the version 3 file here: [philippine_provinces_cities_municipalities_and_barangays_2017.json](./philippine_provinces_cities_municipalities_and_barangays_2017.json?raw=true)
 
 ### How to use, and notes on format
 
