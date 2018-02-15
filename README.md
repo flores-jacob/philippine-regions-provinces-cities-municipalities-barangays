@@ -53,6 +53,10 @@ to Central Visayas (Region VII). This change is reflected in the [version 3 file
 renamed, moved, or destroyed since the 2016 elections, such changes would not be reflected on this resource. If you know
 of any such changes, please file an issue, or better yet, make a pull request, so that we can have it fixed.
 
+### So which version should I get?
+
+Get the version 3 file. [philippine_provinces_cities_municipalities_and_barangays_2017.json](./philippine_provinces_cities_municipalities_and_barangays_2017.json?raw=true)
+
 ### I've spotted some inaccuracies!
 - Please file an issue or make a pull request. I can also be reached at the email address associated with this github account.
 
