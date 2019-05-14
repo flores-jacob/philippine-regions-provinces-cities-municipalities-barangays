@@ -46,7 +46,7 @@ Long answer:
 - It was definitely accurate as of 13 May 2019, the date of the 2019 Philippine elections. Or at least, it was as 
 accurate as the COMELEC records for that election.
 - The only warning we have for this resource is that if any municipalities or barangays have either been created, 
-renamed, moved, or destroyed since the 2016 elections, such changes would not be reflected on this resource. If you know
+renamed, moved, or destroyed since the 2019 elections, such changes would not be reflected on this resource. If you know
 of any such changes, please file an issue, or better yet, make a pull request, so that we can have it fixed.
 
 ### Any changes from the version 3 file I should know about?
