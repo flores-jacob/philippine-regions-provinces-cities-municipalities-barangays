@@ -1,7 +1,7 @@
 # List of Philippine Regions, Provinces, Cities, Municipalities, and Barangays
 
 ### Download
-Get the version 3 file here: [philippine_provinces_cities_municipalities_and_barangays_2017.json](./philippine_provinces_cities_municipalities_and_barangays_2017.json?raw=true)
+Get the version 4 file here: [philippine_provinces_cities_municipalities_and_barangays_2019.json](./philippine_provinces_cities_municipalities_and_barangays_2019.json?raw=true)
 
 ### How to use, and notes on format
 
@@ -9,13 +9,13 @@ The file is in json format, and should be accessible to most languages. For pyth
 
 ```python
 import json
-with open("/path/to/file/philippine_provinces_cities_municipalities_and_barangays_2017.json") as myjsonfile:
+with open("/path/to/file/philippine_provinces_cities_municipalities_and_barangays_2019.json") as myjsonfile:
     mydata = json.load(myjsonfile)  
 ```
 An overview of the structure:        
 ![structure](./structure.png "Structure")
 
-Region keys are of the string values "01", "02", "03", "4A", "4B, "05", "06", "07", "08", "09", "10", "11", "12", "13", "ARMM", "CAR", "NCR", (and "NIR" for version 2).
+Region keys are of the string values "01", "02", "03", "4A", "4B, "05", "06", "07", "08", "09", "10", "11", "12", "13", "BARMM", "CAR", "NCR", (including "NIR" for version 2, and ARMM for version 3 and 3.1).
 
 1. Each region has the following properties: 
 
@@ -43,23 +43,23 @@ Getting an authoritative list of Philippine geographical areas can be pretty ted
 Short answer: Yes, it is accurate.
 
 Long answer:
-- It was definitely accurate as of 9 May 2016, the date of the 2016 Philippine elections. Or at least, it was as 
-accurate as the COMELEC records for that election. This data is available in the [version 2 file](./philippine_provinces_cities_municipalities_and_barangays_2016_v2.json?raw=true) .
-- However, one major change that occured since then is the dissolution of the Negros Island Region (NIR) in the Visayas on
-August 9, 2017 ([source](https://en.wikipedia.org/wiki/Regions_of_the_Philippines#Defunct_regions)). Due to this dissolution, 
-the province of Negros Occidental reverted to Western Visayas (Region VI), and the province of Negros Oriental reverted 
-to Central Visayas (Region VII). This change is reflected in the [version 3 file](./philippine_provinces_cities_municipalities_and_barangays_2017.json?raw=true)
+- It was definitely accurate as of 13 May 2019, the date of the 2019 Philippine elections. Or at least, it was as 
+accurate as the COMELEC records for that election.
 - The only warning we have for this resource is that if any municipalities or barangays have either been created, 
 renamed, moved, or destroyed since the 2016 elections, such changes would not be reflected on this resource. If you know
 of any such changes, please file an issue, or better yet, make a pull request, so that we can have it fixed.
 
-### So which version should I get?
+### Any changes from the version 3 file I should know about?
+Several municipalities have been renamed, some barangays have been moved, and some barangays not present in the previous
+version have been introduced.  ARMM has also been changed to BARMM.  Running a diff between the properly formatted version 
+3.1 (2017) and version 4 (2019) should show which portions have changed (there should be around 14).
 
-Get the version 3 file. [philippine_provinces_cities_municipalities_and_barangays_2017.json](./philippine_provinces_cities_municipalities_and_barangays_2017.json?raw=true)
+### So which version should I get?
+Get the version 4 (2019) file. [philippine_provinces_cities_municipalities_and_barangays_2019.json](./philippine_provinces_cities_municipalities_and_barangays_2019.json?raw=true)
 
 ### I've spotted some inaccuracies!
-- Please file an issue or make a pull request. I can also be reached at the email address associated with this github account.
+Please file an issue or make a pull request. I can also be reached at the email address associated with this github account.
 
 ### Obligatory disclaimer
-Data is provided as is and without guarantees.  It should however be fairly accurate, as it is based on the 2016 Comelec 
-election data along with the single modificiation of regroupging the component provinces of the Negros Island Region
+Data is provided as is and without guarantees.  It should however be fairly accurate, as it is based on the 2019 Comelec 
+election data.
