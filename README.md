@@ -1,7 +1,7 @@
 # List of Philippine Regions, Provinces, Cities, Municipalities, and Barangays
 
 ### Download
-Get the version 4 file here: [philippine_provinces_cities_municipalities_and_barangays_2019.json](./philippine_provinces_cities_municipalities_and_barangays_2019.json?raw=true)
+Get the version 4(2019v2) file here: [philippine_provinces_cities_municipalities_and_barangays_2019v2.json](./philippine_provinces_cities_municipalities_and_barangays_2019v2.json?raw=true)
 
 ### How to use, and notes on format
 
@@ -9,7 +9,7 @@ The file is in json format, and should be accessible to most languages. For pyth
 
 ```python
 import json
-with open("/path/to/file/philippine_provinces_cities_municipalities_and_barangays_2019.json") as myjsonfile:
+with open("/path/to/file/philippine_provinces_cities_municipalities_and_barangays_2019v2.json") as myjsonfile:
     mydata = json.load(myjsonfile)  
 ```
 An overview of the structure:        
@@ -52,10 +52,12 @@ of any such changes, please file an issue, or better yet, make a pull request, s
 ### Any changes from the version 3 file I should know about?
 Several municipalities have been renamed, some barangays have been moved, and some barangays not present in the previous
 version have been introduced.  ARMM has also been changed to BARMM.  Running a diff between the properly formatted version 
-3.1 (2017) and version 4 (2019) should show which portions have changed (there should be around 14).
+3.1 (2017) and [version 4 (May 15, 2019v1)](./philippine-regions-provinces-cities-municipalities-barangays/0ae4a49d3d5e5e1749575a1d028da6dac4020b35/philippine_provinces_cities_municipalities_and_barangays_2019.json?raw=true) 
+(prior to the correction of Ñ characters on July 29, 2019),  should show which portions have changed (there should be 
+around 14 material differences).
 
 ### So which version should I get?
-Get the version 4 (2019) file. [philippine_provinces_cities_municipalities_and_barangays_2019.json](./philippine_provinces_cities_municipalities_and_barangays_2019.json?raw=true)
+Get the version 4 (2019v2) file. [philippine_provinces_cities_municipalities_and_barangays_2019v2.json](./philippine_provinces_cities_municipalities_and_barangays_2019v2.json?raw=true)
 
 ### I've spotted some inaccuracies!
 Please file an issue or make a pull request. I can also be reached at the email address associated with this github account.
