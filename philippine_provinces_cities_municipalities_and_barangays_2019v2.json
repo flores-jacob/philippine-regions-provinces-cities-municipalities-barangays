@@ -384,7 +384,7 @@
               "GARNADEN",
               "NAGUILLAN (PAGPAG-ONG)",
               "POBLACION",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "UGUIS"
             ]
           },
@@ -1440,7 +1440,7 @@
               "QUIMMALLOGONG",
               "RANG-AY (POB.)",
               "RICUDO",
-              "SABA\u00d1GAN (MARCOS)",
+              "SABAÑGAN (MARCOS)",
               "SALLACAPO",
               "SANTA CRUZ",
               "SAPRIANA",
@@ -1503,7 +1503,7 @@
               "LIBTONG",
               "LUBNAC",
               "MAGSAYSAY (POB.)",
-              "MALACA\u00d1ANG",
+              "MALACAÑANG",
               "PACAC",
               "PALLOGAN",
               "PUDOC EAST",
@@ -2580,7 +2580,7 @@
               "SANTA CATALINA",
               "SANTA MARIA NORTE",
               "SANTIAGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SUMABNIT",
               "TABUYOC",
               "VACANTE"
@@ -2699,7 +2699,7 @@
               "SAN PASCUAL",
               "SAN VICENTE",
               "SAPA GRANDE",
-              "SAPA PEQUE\u00d1A",
+              "SAPA PEQUEÑA",
               "TAMBACAN"
             ]
           },
@@ -2778,7 +2778,7 @@
               "MAGSAYSAY",
               "MALACAPAS",
               "MALIMPIN",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PETAL",
               "POBLACION",
               "SAN VICENTE",
@@ -3101,7 +3101,7 @@
               "OLO CACAMPOSAN",
               "OLO CAFABROSAN",
               "OLO CAGARLITAN",
-              "OSME\u00d1A (POB.)",
+              "OSMEÑA (POB.)",
               "PACALAT",
               "PAMPANO",
               "PARIAN",
@@ -3181,7 +3181,7 @@
               "BUNEG",
               "CABLONG",
               "CASANFERNANDOAN",
-              "CASTA\u00d1O",
+              "CASTAÑO",
               "DILAN",
               "DON BENITO",
               "HAWAY",
@@ -3295,7 +3295,7 @@
               "MABALBALINO",
               "MABINI (POB.)",
               "MAGTAKING",
-              "MALACA\u00d1ANG",
+              "MALACAÑANG",
               "MALIWARA",
               "MAMARLAO",
               "MANZON",
@@ -3550,7 +3550,7 @@
               "SAN JOSE",
               "SAN MARCOS",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "SISON": {
@@ -3977,7 +3977,7 @@
               "NANGALASAUAN",
               "NANUCCAUAN",
               "PACAC-GRANDE",
-              "PACAC-PEQUE\u00d1O",
+              "PACAC-PEQUEÑO",
               "PALACU",
               "PALAYAG",
               "TANA",
@@ -4046,7 +4046,7 @@
               "BARSAT EAST",
               "BARSAT WEST",
               "BITAG GRANDE",
-              "BITAG PEQUE\u00d1O",
+              "BITAG PEQUEÑO",
               "BUNUGAN",
               "C. VERZOSA (VALLEY COVE)",
               "CANAGATAN",
@@ -4197,7 +4197,7 @@
               "BUENAVISTA",
               "CADCADIR EAST",
               "CADCADIR WEST",
-              "CAMALAGGOAN/D LEA\u00d1O",
+              "CAMALAGGOAN/D LEAÑO",
               "CAPANIKIAN",
               "CENTRO I (POB.)",
               "CENTRO II (POB.)",
@@ -4224,7 +4224,7 @@
               "SAN VICENTE",
               "SANTA MARIA (SURNGOT)",
               "SANTIAGO",
-              "SANTO NI\u00d1O (BARBARNIS)",
+              "SANTO NIÑO (BARBARNIS)",
               "SANTO TOMAS",
               "TABBUGAN",
               "TAGGAT NORTE",
@@ -4296,8 +4296,8 @@
               "NEWAGAC",
               "PALAGAO NORTE",
               "PALAGAO SUR",
-              "PI\u00d1A ESTE",
-              "PI\u00d1A WESTE",
+              "PIÑA ESTE",
+              "PIÑA WESTE",
               "SAN CARLOS",
               "SAN VICENTE",
               "SANTA ANA",
@@ -4463,7 +4463,7 @@
               "TUPANNA"
             ]
           },
-          "PE\u00d1ABLANCA": {
+          "PEÑABLANCA": {
             "barangay_list": [
               "AGGUGADDAN",
               "ALIMANAO",
@@ -4619,7 +4619,7 @@
               "VILLA"
             ]
           },
-          "SANTO NI\u00d1O (FAIRE)": {
+          "SANTO NIÑO (FAIRE)": {
             "barangay_list": [
               "ABARIONGAN RUAR",
               "ABARIONGAN UNEG",
@@ -4862,7 +4862,7 @@
               "LIWLIWA",
               "LOMBOY",
               "LORIA",
-              "LOURDES (EL ESCA\u00d1O)",
+              "LOURDES (EL ESCAÑO)",
               "MABUHAY",
               "MACALAUAT",
               "MACANIAO",
@@ -4882,7 +4882,7 @@
               "SAN MARCELO",
               "SAN ROQUE",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SARANAY",
               "SINABBARAN",
               "VICTORY",
@@ -5384,7 +5384,7 @@
               "NAGUILIAN SUR",
               "NAMNAMA",
               "NANAGUAN",
-              "OSME\u00d1A (SINIPPIL)",
+              "OSMEÑA (SINIPPIL)",
               "PALIUEG",
               "PASA",
               "PILAR",
@@ -5474,7 +5474,7 @@
               "LALOG 1",
               "LALOG 2",
               "LUYAO",
-              "MACA\u00d1AO",
+              "MACAÑAO",
               "MACUGAY",
               "MAMBABANGA",
               "PULAY",
@@ -5643,16 +5643,16 @@
               "BANQUERO",
               "BINARSANG",
               "CUTOG GRANDE",
-              "CUTOG PEQUE\u00d1O",
+              "CUTOG PEQUEÑO",
               "DANGAN",
               "DISTRICT I (POB.)",
               "DISTRICT II (POB.)",
               "LABINAB GRANDE (POB.)",
-              "LABINAB PEQUE\u00d1O (POB.)",
+              "LABINAB PEQUEÑO (POB.)",
               "MALLALATANG GRANDE",
               "MALLALATANG TUNGGUI",
               "NAPACCU GRANDE",
-              "NAPACCU PEQUE\u00d1O",
+              "NAPACCU PEQUEÑO",
               "SALUCONG",
               "SANTIAGO",
               "SANTOR",
@@ -5666,7 +5666,7 @@
             "barangay_list": [
               "ANAO",
               "BANTUG (POB.)",
-              "DO\u00d1A CONCHA",
+              "DOÑA CONCHA",
               "IMBIAO",
               "LANTING",
               "LUCBAN",
@@ -5674,8 +5674,8 @@
               "MARCOS",
               "MASIGUN",
               "MATUSALEM",
-              "MU\u00d1OZ EAST",
-              "MU\u00d1OZ WEST",
+              "MUÑOZ EAST",
+              "MUÑOZ WEST",
               "QUILING",
               "RANG-AYAN",
               "RIZAL (POB.)",
@@ -5697,7 +5697,7 @@
               "BAUTISTA",
               "CALAOCAN",
               "DABUBU GRANDE",
-              "DABUBU PEQUE\u00d1O",
+              "DABUBU PEQUEÑO",
               "DAPPIG",
               "LAOAG",
               "MAPALAD",
@@ -5712,7 +5712,7 @@
               "RANG-AY",
               "SALAY",
               "SAN ANTONIO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTOS",
               "SINAOANGAN NORTE",
               "SINAOANGAN SUR",
@@ -5831,7 +5831,7 @@
           },
           "SAN MATEO": {
             "barangay_list": [
-              "BACARE\u00d1A",
+              "BACAREÑA",
               "BAGONG SIKAT",
               "BARANGAY I (POB.)",
               "BARANGAY II (POB.)",
@@ -5846,7 +5846,7 @@
               "MALASIN",
               "MAPUROC",
               "MARASAT GRANDE",
-              "MARASAT PEQUE\u00d1O",
+              "MARASAT PEQUEÑO",
               "OLD CENTRO I",
               "OLD CENTRO II",
               "SALINUNGAN EAST",
@@ -5928,9 +5928,9 @@
               "CALINAOAN CENTRO",
               "CALINAOAN MALASIN",
               "CALINAOAN NORTE",
-              "CA\u00d1OGAN ABAJO NORTE",
-              "CA\u00d1OGAN ABAJO SUR",
-              "CA\u00d1OGAN ALTO",
+              "CAÑOGAN ABAJO NORTE",
+              "CAÑOGAN ABAJO SUR",
+              "CAÑOGAN ALTO",
               "CENTRO",
               "COLUNGUAN",
               "MALAPAGAY",
@@ -5984,7 +5984,7 @@
               "SANTA",
               "SANTA CATALINA",
               "SANTA VISITACION (MAGGAYU)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SINIPPIL",
               "SISIM ABAJO",
               "SISIM ALTO",
@@ -6304,7 +6304,7 @@
               "CURIFANG",
               "DADAP",
               "LACTAWAN",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PILAR D. GALIMA",
               "POBLACION NORTH",
               "POBLACION SOUTH",
@@ -6342,7 +6342,7 @@
               "DAGUPAN",
               "DIODOL",
               "DUMABEL",
-              "DUNGO (OSME\u00d1A)",
+              "DUNGO (OSMEÑA)",
               "GUINALBIN",
               "LIGAYA",
               "NAGABGABAN",
@@ -6379,7 +6379,7 @@
               "SAN MARCOS",
               "SANTO DOMINGO",
               "TUCOD",
-              "VILLA PE\u00d1A (CAPELLANGAN)",
+              "VILLA PEÑA (CAPELLANGAN)",
               "VILLAMOR",
               "VILLAROSE",
               "ZAMORA"
@@ -6399,7 +6399,7 @@
               "DIEGO SILANG",
               "DON FAUSTINO PAGADUAN",
               "DON MARIANO PEREZ, SR.",
-              "DO\u00d1A IMELDA",
+              "DOÑA IMELDA",
               "DUMANISI",
               "GABRIELA SILANG",
               "GREGORIO PIMENTEL",
@@ -6412,7 +6412,7 @@
               "MAGSAYSAY",
               "MAKATE",
               "MARIA CLARA",
-              "RAFAEL PALMA (DON SERGIO OSME\u00d1A)",
+              "RAFAEL PALMA (DON SERGIO OSMEÑA)",
               "RICARTE NORTE",
               "RICARTE SUR",
               "RIZAL (POB.)",
@@ -6448,7 +6448,7 @@
               "SAN PEDRO",
               "SAN SALVADOR",
               "SANTA MARIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO TOMAS",
               "VILLA AGULLANA",
               "VILLA GRACIA",
@@ -6730,7 +6730,7 @@
               "CUPANG PROPER",
               "CUPANG WEST",
               "DANGCOL (BERNABE)",
-              "DO\u00d1A FRANCISCA",
+              "DOÑA FRANCISCA",
               "IBAYO",
               "LOTE",
               "MALABIA",
@@ -6789,7 +6789,7 @@
               "SAN RAMON",
               "SAN SIMON",
               "SANTA ISABEL (TABACAN)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAPANG BALAS",
               "TORRES BUGAUEN (POB.)",
               "TUBO-TUBO",
@@ -7029,7 +7029,7 @@
               "SAN ROQUE",
               "SANTA BARBARA",
               "SANTO CRISTO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SUBIC",
               "SULIVAN",
               "TANGOS",
@@ -7046,8 +7046,8 @@
               "BAGUMBAYAN",
               "BAMBANG",
               "BATIA",
-              "BI\u00d1ANG 1ST",
-              "BI\u00d1ANG 2ND",
+              "BIÑANG 1ST",
+              "BIÑANG 2ND",
               "BOLACAN",
               "BUNDUKAN",
               "BUNLO",
@@ -7126,13 +7126,13 @@
               "SAN MARCOS",
               "SAN MIGUEL",
               "SANTA LUCIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAPANG BAYAN",
               "SERGIO BAYAN",
               "SUCOL"
             ]
           },
-          "DO\u00d1A REMEDIOS TRINIDAD": {
+          "DOÑA REMEDIOS TRINIDAD": {
             "barangay_list": [
               "BAYABAS",
               "CAMACHILE",
@@ -7186,7 +7186,7 @@
               "SANTA CRUZ",
               "SANTA ELENA",
               "SANTA MONICA",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SANTO ROSARIO",
               "TAMPOK",
               "TIBAGUIN"
@@ -7238,7 +7238,7 @@
               "SANTIAGO",
               "SANTISIMA TRINIDAD",
               "SANTO CRISTO",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SANTO ROSARIO (POB.)",
               "SANTOL",
               "SUMAPANG BATA",
@@ -7350,7 +7350,7 @@
               "POBLACION",
               "REAL DE CACARONG",
               "SAN ROQUE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SILING BATA",
               "SILING MATANDA"
             ]
@@ -7369,7 +7369,7 @@
               "SAN ROQUE",
               "SAN VICENTE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO"
             ]
           },
@@ -7391,7 +7391,7 @@
               "RUEDA",
               "SAN JOSE",
               "SANTA INES",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIPAT",
               "TABANG"
             ]
@@ -7515,8 +7515,8 @@
               "SANTA CRUZ IV",
               "SANTA CRUZ V",
               "SANTO CRISTO",
-              "SANTO NI\u00d1O",
-              "SANTO NI\u00d1O II",
+              "SANTO NIÑO",
+              "SANTO NIÑO II",
               "SAPANG PALAY",
               "ST. MARTIN DE PORRES",
               "TUNGKONG MANGGA"
@@ -7787,7 +7787,7 @@
               "SANGITAN",
               "SANGITAN EAST",
               "SANTA ARCADIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAPANG",
               "SUMACAB ESTE",
               "SUMACAB NORTE",
@@ -7947,7 +7947,7 @@
               "SANTA CRUZ",
               "SANTO CRISTO NORTE",
               "SANTO CRISTO SUR",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "GENERAL MAMERTO NATIVIDAD": {
@@ -8066,7 +8066,7 @@
               "DON MARIANO MARCOS (POB.)",
               "HILERA",
               "IMBUNIA",
-              "IMELDA POB. (DO\u00d1A AURORA)",
+              "IMELDA POB. (DOÑA AURORA)",
               "LAMBAKIN",
               "LANGLA",
               "MAGSALISI",
@@ -8213,7 +8213,7 @@
               "BO. MILITAR (FORT MAGSAYSAY)",
               "CABALLERO",
               "CAIMITO",
-              "DO\u00d1A JOSEFA",
+              "DOÑA JOSEFA",
               "GANADERIA",
               "IMELDA VALLEY",
               "LANGKA",
@@ -8246,10 +8246,10 @@
               "VILLARICA"
             ]
           },
-          "PE\u00d1ARANDA": {
+          "PEÑARANDA": {
             "barangay_list": [
               "CALLOS",
-              "LAS PI\u00d1AS",
+              "LAS PIÑAS",
               "POBLACION I",
               "POBLACION II",
               "POBLACION III",
@@ -8265,7 +8265,7 @@
               "BARANGAY I (POB.)",
               "BARANGAY II (POB.)",
               "BERTESE",
-              "DO\u00d1A LUCIA",
+              "DOÑA LUCIA",
               "DULONG BAYAN",
               "ILOG BALIWAG",
               "PULONG BAHAY",
@@ -8370,9 +8370,9 @@
               "SAN AGUSTIN",
               "SAN JUAN",
               "SAN MAURICIO",
-              "SANTO NI\u00d1O 1ST",
-              "SANTO NI\u00d1O 2ND",
-              "SANTO NI\u00d1O 3RD",
+              "SANTO NIÑO 1ST",
+              "SANTO NIÑO 2ND",
+              "SANTO NIÑO 3RD",
               "SANTO TOMAS",
               "SIBUT",
               "SINIPIT BUBON",
@@ -8419,7 +8419,7 @@
               "LOURDES",
               "LUNA",
               "MABINI",
-              "MALACA\u00d1ANG",
+              "MALACAÑANG",
               "MALIOLIO",
               "MAPALAD",
               "RAJAL CENTRO",
@@ -8469,7 +8469,7 @@
               "SANTO ROSARIO"
             ]
           },
-          "SCIENCE CITY OF MU\u00d1OZ": {
+          "SCIENCE CITY OF MUÑOZ": {
             "barangay_list": [
               "BAGONG SIKAT",
               "BALANTE",
@@ -8581,7 +8581,7 @@
               "MAYAMOT I",
               "MAYAMOT II",
               "NANGABULAN",
-              "OSME\u00d1A (POB.)",
+              "OSMEÑA (POB.)",
               "PANGIT",
               "PATOLA",
               "QUEZON (POB.)",
@@ -8708,7 +8708,7 @@
               "SAN MATEO",
               "SAN NICOLAS",
               "SAN ROQUE BITAS",
-              "SANTO NI\u00d1O TABUAN",
+              "SANTO NIÑO TABUAN",
               "SUCLAYIN",
               "TELAPAYONG"
             ]
@@ -8772,7 +8772,7 @@
               "TENEJERO",
               "VIZAL SAN PABLO",
               "VIZAL SANTO CRISTO",
-              "VIZAL SANTO NI\u00d1O"
+              "VIZAL SANTO NIÑO"
             ]
           },
           "FLORIDABLANCA": {
@@ -8844,7 +8844,7 @@
               "SANTA INES",
               "SANTA URSULA",
               "SANTO CRISTO",
-              "SANTO NI\u00d1O (POB.)"
+              "SANTO NIÑO (POB.)"
             ]
           },
           "LUBAO": {
@@ -8891,7 +8891,7 @@
               "SANTIAGO",
               "SANTO CRISTO",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O (PRADO ARUBA)",
+              "SANTO NIÑO (PRADO ARUBA)",
               "SANTO TOMAS (POB.)"
             ]
           },
@@ -8948,7 +8948,7 @@
               "SANTA LUTGARDA",
               "SANTA MARIA",
               "SANTA RITA (POB.)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO (POB.)",
               "SAPLAD DAVID",
               "TACASAN",
@@ -8981,7 +8981,7 @@
               "SANTA CRUZ (POB.)",
               "SANTA LUCIA",
               "SANTA MARIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO",
               "TURU"
             ]
@@ -9011,7 +9011,7 @@
               "SANTA LUCIA PAGUIBA",
               "SANTA LUCIA WAKAS",
               "SANTA MONICA (CAINGIN)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAPANG KAWAYAN",
               "SUA"
             ]
@@ -9148,7 +9148,7 @@
               "SAN PEDRO",
               "SANTA LUCIA",
               "SANTA TERESITA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO (POB.)",
               "SINDALAN",
               "TELABASTAGAN"
@@ -9170,7 +9170,7 @@
               "SANTA LUCIA",
               "SANTA MONICA",
               "SANTA RITA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO",
               "SANTO TOMAS"
             ]
@@ -9190,7 +9190,7 @@
               "SAN PEDRO",
               "SANTA CRUZ",
               "SANTA MONICA",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "SANTA ANA": {
@@ -9233,7 +9233,7 @@
               "SAN MATIAS",
               "SAN VICENTE",
               "SANTO ROSARIO (PAU)",
-              "SAPA (SANTO NI\u00d1O)"
+              "SAPA (SANTO NIÑO)"
             ]
           },
           "SASMUAN (SEXMOAN)": {
@@ -9293,7 +9293,7 @@
               "SAN RAFAEL",
               "SAN ROQUE",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "VIRGEN DE LOS REMEDIOS (PACALCAL)"
             ]
           },
@@ -9452,7 +9452,7 @@
               "SANTA MARIA",
               "SANTO CRISTO",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAPANG MARAGUL",
               "SAPANG TAGALOG",
               "SEPUNG CALZADA",
@@ -9507,7 +9507,7 @@
               "SANTA ROSA",
               "SANTIAGO",
               "SANTO CRISTO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO (MAGUNTING)",
               "TALIMUNDUC MARIMLA",
               "TALIMUNDUC SAN MIGUEL",
@@ -9900,7 +9900,7 @@
               "SAN JUAN (POB.)",
               "SAN RAFAEL",
               "SANTA RITA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TONDO"
             ]
           },
@@ -10015,7 +10015,7 @@
               "PANGOLINGAN",
               "SALAZA",
               "SAN JUAN",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO TOMAS",
               "TITION (SAN VICENTE)",
               "WEST POBLACION"
@@ -10044,13 +10044,13 @@
               "AMAGNA (POB.)",
               "APOSTOL (POB.)",
               "BALINCAGUING",
-              "FARA\u00d1AL (POB.)",
+              "FARAÑAL (POB.)",
               "FERIA (POB.)",
               "MALOMA",
               "MANGLICMOT (POB.)",
               "ROSETE (POB.)",
               "SAN RAFAEL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SINDOL"
             ]
           },
@@ -10362,7 +10362,7 @@
               "SANTA RITA APLAYA",
               "SANTA RITA KARSADA",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIMLONG",
               "SIRANG LUPA",
               "SOROSORO IBABA",
@@ -10548,7 +10548,7 @@
               "SALABAN II",
               "SAN AGUSTIN",
               "SANDALAN",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TALAIBON",
               "TULAY NA PATPAT"
             ]
@@ -10715,7 +10715,7 @@
               "SAN LUCAS",
               "SAN SALVADOR",
               "SAN SEBASTIAN (BALAGBAG)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO TORIBIO",
               "SAPAC",
               "SICO",
@@ -10788,7 +10788,7 @@
               "SAN TEODORO",
               "SANTA ANA",
               "SANTA MESA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO TOMAS",
               "SOLO",
               "TALAGA EAST",
@@ -11083,7 +11083,7 @@
               "PANSIPIT",
               "POBLACION",
               "PULANG-BATO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SINTURISAN",
               "TAGUDTOD",
               "TALANG"
@@ -11119,7 +11119,7 @@
               "SAN MARIANO",
               "SAN MATEO",
               "SANTA ELENA",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "SANTA TERESITA": {
@@ -11274,7 +11274,7 @@
               "MALAKING PULO",
               "MARIA PAZ",
               "MAUGAT",
-              "MONTA\u00d1A (IK-IK)",
+              "MONTAÑA (IK-IK)",
               "NATATAS",
               "PAGASPAS",
               "PANTAY BATA",
@@ -11289,7 +11289,7 @@
               "SALA",
               "SAMBAT",
               "SAN JOSE",
-              "SANTOL (DO\u00d1A JACOBA GARCIA)",
+              "SANTOL (DOÑA JACOBA GARCIA)",
               "SANTOR",
               "SULPOC",
               "SUPLANG",
@@ -11315,12 +11315,12 @@
               "PAG-ASA",
               "PANGHAYAAN",
               "PINAGBAYANAN",
-              "PI\u00d1A",
+              "PIÑA",
               "POBLACION EAST",
               "POBLACION WEST",
               "SAN ISIDRO",
               "SAN MARCELINO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TILAMBO"
             ]
           },
@@ -11622,7 +11622,7 @@
               "BARANGAY 62-B (KANGKONG B)"
             ]
           },
-          "DASMARI\u00d1AS CITY": {
+          "DASMARIÑAS CITY": {
             "barangay_list": [
               "BUROL",
               "BUROL I",
@@ -11691,8 +11691,8 @@
               "SANTA LUCIA (SAN JUAN II)",
               "SANTA MARIA (BARANGAY 20)",
               "SANTO CRISTO (BARANGAY 3)",
-              "SANTO NI\u00d1O I",
-              "SANTO NI\u00d1O II",
+              "SANTO NIÑO I",
+              "SANTO NIÑO II",
               "VICTORIA REYES",
               "ZONE I (POB.)",
               "ZONE I-B",
@@ -11736,8 +11736,8 @@
             "barangay_list": [
               "A. DALUSAG",
               "BATAS DAO",
-              "CASTA\u00d1OS CERCA",
-              "CASTA\u00d1OS LEJOS",
+              "CASTAÑOS CERCA",
+              "CASTAÑOS LEJOS",
               "KABULUSAN",
               "KAYMISAS",
               "KAYPAABA",
@@ -12006,7 +12006,7 @@
               "TULAY SILANGAN"
             ]
           },
-          "MENDEZ (MENDEZ-NU\u00d1EZ)": {
+          "MENDEZ (MENDEZ-NUÑEZ)": {
             "barangay_list": [
               "ANULING CERCA I",
               "ANULING CERCA II",
@@ -12460,9 +12460,9 @@
               "UDIA"
             ]
           },
-          "CITY OF BI\u00d1AN": {
+          "CITY OF BIÑAN": {
             "barangay_list": [
-              "BI\u00d1AN (POBLACION)",
+              "BIÑAN (POBLACION)",
               "BUNGAHAN",
               "CANLALAY",
               "CASILE",
@@ -12480,7 +12480,7 @@
               "SAN JOSE",
               "SAN VICENTE",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO TOMAS (CALABUSO)",
               "SORO-SORO",
               "TIMBAO",
@@ -12556,7 +12556,7 @@
               "TUY-BAANAN"
             ]
           },
-          "LOS BA\u00d1OS": {
+          "LOS BAÑOS": {
             "barangay_list": [
               "ANOS",
               "BAGONG SILANG",
@@ -12615,7 +12615,7 @@
               "PRIMERA PARANG (POB.)",
               "PRIMERA PULO (POB.)",
               "SALAC (POB.)",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SEGUNDA PARANG (POB.)",
               "SEGUNDA PULO (POB.)",
               "WAWA"
@@ -12786,7 +12786,7 @@
               "ANIBONG",
               "BARANGAY I (POB.)",
               "BARANGAY II (POB.)",
-              "BI\u00d1AN",
+              "BIÑAN",
               "BUBOY",
               "CABANBANAN",
               "CALUSICHE",
@@ -12804,7 +12804,7 @@
           "PAKIL": {
             "barangay_list": [
               "BANILAN",
-              "BA\u00d1O (POB.)",
+              "BAÑO (POB.)",
               "BURGOS (POB.)",
               "CASA REAL",
               "CASINSIN",
@@ -12946,7 +12946,7 @@
               "SANTISIMO ROSARIO",
               "SANTO ANGEL",
               "SANTO CRISTO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SOLEDAD"
             ]
           },
@@ -12976,7 +12976,7 @@
               "SAN LORENZO RUIZ",
               "SAN ROQUE",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "UNITED BAYANIHAN",
               "UNITED BETTER LIVING"
             ]
@@ -13272,7 +13272,7 @@
               "BULI",
               "DAPDAP",
               "DOMINLOG",
-              "DO\u00d1A AURORA",
+              "DOÑA AURORA",
               "GUINOSAYAN",
               "IPIL",
               "KALIBO (SANTA CRUZ)",
@@ -13327,7 +13327,7 @@
               "TINIGUIBAN",
               "VILLA MAGSINO",
               "VILLA SAN ISIDRO",
-              "VI\u00d1AS",
+              "VIÑAS",
               "YAGANAK"
             ]
           },
@@ -13578,7 +13578,7 @@
               "MAUNLAD (POB.)",
               "PAGSABANGAN",
               "PANIKIHAN",
-              "PE\u00d1AFRANCIA (POB.)",
+              "PEÑAFRANCIA (POB.)",
               "PIPISIK (POB.)",
               "PROGRESO",
               "RIZAL (POB.)",
@@ -13601,7 +13601,7 @@
               "VILLA NAVA",
               "VILLA PADUA",
               "VILLA PEREZ",
-              "VILLA TA\u00d1ADA",
+              "VILLA TAÑADA",
               "VILLA VICTORIA"
             ]
           },
@@ -13709,7 +13709,7 @@
               "MONTECLARO",
               "PAMAMPANGIN",
               "PANSOL",
-              "PE\u00d1AFRANCIA",
+              "PEÑAFRANCIA",
               "PISIPIS",
               "RIZAL (POBLACION)",
               "RIZAL (RURAL)",
@@ -13733,8 +13733,8 @@
               "SANTA MARIA",
               "SANTA ROSA",
               "SANTA TERESA (MAYUPAG)",
-              "SANTO NI\u00d1O IBABA",
-              "SANTO NI\u00d1O ILAYA",
+              "SANTO NIÑO IBABA",
+              "SANTO NIÑO ILAYA",
               "SILANG",
               "SUGOD",
               "SUMALANG",
@@ -13743,7 +13743,7 @@
               "TAN-AG ILAYA",
               "TOCALIN",
               "VEGAFLOR",
-              "VERGA\u00d1A",
+              "VERGAÑA",
               "VERONICA",
               "VILLA AURORA",
               "VILLA ESPINA",
@@ -13898,7 +13898,7 @@
               "SAN VICENTE",
               "SANTA LUCIA",
               "SANTO ANGEL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTOL",
               "SOLEDAD",
               "TAPUCAN"
@@ -13966,7 +13966,7 @@
             "barangay_list": [
               "ALUPAYE",
               "ANTIPOLO",
-              "A\u00d1ATO",
+              "AÑATO",
               "BANTIGUE",
               "BARANGAY 1 CASTILLO (POB.)",
               "BARANGAY 2 DAUNGAN (POB.)",
@@ -14052,18 +14052,18 @@
               "GANGAHIN",
               "IBABANG BURGOS",
               "IBABANG PACATIN",
-              "IBABANG PI\u00d1A",
+              "IBABANG PIÑA",
               "IBABANG SOLIYAO",
               "ILAYANG BURGOS",
               "ILAYANG PACATIN",
-              "ILAYANG PI\u00d1A",
+              "ILAYANG PIÑA",
               "ILAYANG SOLIYAO",
               "MAALIW (POB.)",
               "MANGGAHAN (POB.)",
               "MASAYA (POB.)",
               "MAYUBOK (POB.)",
               "NAG-CRUZ",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PAG-ASA (POB.)",
               "PAMILIHAN (POB.)",
               "PAYTE",
@@ -14099,7 +14099,7 @@
               "ANAWAN",
               "ATULAYAN",
               "BALESIN",
-              "BA\u00d1ADERO",
+              "BAÑADERO",
               "BINIBITINAN",
               "BISLIAN",
               "BUCAO",
@@ -14135,8 +14135,8 @@
               "GUINHAWA",
               "GUMUBAT",
               "MAGSINO",
-              "MASCARI\u00d1A",
-              "MONTA\u00d1A",
+              "MASCARIÑA",
+              "MONTAÑA",
               "SABANG",
               "SILANGAN",
               "TAGKAWA",
@@ -14231,12 +14231,12 @@
               "IBABANG TAYUMAN",
               "ILAYANG TAYUMAN",
               "INABUAN",
-              "MABU\u00d1GA",
+              "MABUÑGA",
               "NASALAAN",
               "PAGSANGAHAN",
               "POBLACION",
               "PUGON",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SILONGIN"
             ]
           },
@@ -14282,7 +14282,7 @@
               "BIGNAY 2",
               "BUCAL",
               "CANDA",
-              "CASTA\u00d1AS",
+              "CASTAÑAS",
               "CONCEPCION BANAHAW",
               "CONCEPCION NO. 1",
               "CONCEPCION PALASAN",
@@ -14355,8 +14355,8 @@
               "SAN VICENTE",
               "SANTA CECILIA",
               "SANTA MONICA",
-              "SANTO NI\u00d1O I",
-              "SANTO NI\u00d1O II",
+              "SANTO NIÑO I",
+              "SANTO NIÑO II",
               "SANTO TOMAS",
               "SEGUIWAN",
               "TABASON",
@@ -14524,7 +14524,7 @@
               "SAN PEDRO",
               "SAN ROQUE",
               "SAN VICENTE",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "BARAS": {
@@ -14593,7 +14593,7 @@
               "SAN ROQUE",
               "SANTA ROSA",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "CARDONA": {
@@ -14708,7 +14708,7 @@
               "MALY",
               "PINTONG BOCAWE",
               "SANTA ANA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SILANGAN"
             ]
           },
@@ -14729,7 +14729,7 @@
               "SAN ANDRES",
               "SAN ISIDRO (POB.)",
               "SANTA INEZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TABING ILOG (POB.)",
               "TANDANG KUTYO (POB.)",
               "TINUCAN",
@@ -14948,7 +14948,7 @@
               "KAMANDUGAN",
               "KASILY",
               "KILO-KILO",
-              "KI\u00d1AMAN",
+              "KIÑAMAN",
               "LABO",
               "LAMESA",
               "LANDY",
@@ -15134,7 +15134,7 @@
               "RUMBANG",
               "SALVACION",
               "SAN PEDRO",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "SABLAYAN": {
@@ -15157,7 +15157,7 @@
               "SAN NICOLAS",
               "SAN VICENTE",
               "SANTA LUCIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGUMPAY",
               "TUBAN",
               "VICTORIA"
@@ -15388,7 +15388,7 @@
               "SANTA ISABEL",
               "SANTA MARIA VILLAGE",
               "SANTA RITA (BUNGAHAN)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAPUL",
               "SILONAY",
               "SUQUI",
@@ -15500,7 +15500,7 @@
               "PANIQUIAN",
               "PINAGSABANGAN I",
               "PINAGSABANGAN II",
-              "PI\u00d1AHAN",
+              "PIÑAHAN",
               "POBLACION I (BARANGAY I)",
               "POBLACION II (BARANGAY II)",
               "POBLACION III (BARANGAY III)",
@@ -15519,7 +15519,7 @@
               "SANTA ISABEL",
               "SANTA MARIA",
               "SANTIAGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGUMPAY",
               "TIGKAN"
             ]
@@ -15557,7 +15557,7 @@
               "SANTA ISABEL",
               "SANTA MARIA",
               "SANTA RITA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "WAWA",
               "ZONE I (POB.)",
               "ZONE II (POB.)",
@@ -15603,7 +15603,7 @@
               "SABANG",
               "SAN ANTONIO",
               "SAN ISIDRO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SINANDIGAN",
               "TABINAY",
               "VILLAFLOR"
@@ -15760,10 +15760,10 @@
               "LUMACAD",
               "MADOLDOLON",
               "MAURINGUEN",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "POBLACION (CENTRO)",
               "SAN JOSE DE ORO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TALOTO",
               "TININTINAN",
               "TUDELA (CALANDAGAN)"
@@ -15836,7 +15836,7 @@
               "POBLACION I",
               "POBLACION II",
               "SALOGON",
-              "SAMARE\u00d1ANA",
+              "SAMAREÑANA",
               "SARAZA",
               "TUBTUB"
             ]
@@ -15856,7 +15856,7 @@
               "SALVACION",
               "SAN ISIDRO",
               "SAN RAFAEL",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "CAGAYANCILLO": {
@@ -15916,7 +15916,7 @@
               "LIBIS",
               "LUAC",
               "MALAKING PATAG",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "TIZA"
             ]
           },
@@ -15975,7 +15975,7 @@
               "MANLAG",
               "MASAGANA POB. (BARANGAY 3)",
               "NEW IBAJAY",
-              "PASADE\u00d1A",
+              "PASADEÑA",
               "SAN FERNANDO",
               "SIBALTAN",
               "TENEGUIBAN",
@@ -16027,7 +16027,7 @@
               "BURIRAO",
               "CAGUISAN",
               "CALATEGAS",
-              "DUMAGUE\u00d1A",
+              "DUMAGUEÑA",
               "ELVITA",
               "ESTRELLA VILLAGE",
               "IPILAN",
@@ -16193,10 +16193,10 @@
               "POBLACION (SAN VICENTE)",
               "PORT BARTON",
               "SAN ISIDRO",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
-          "SOFRONIO ESPA\u00d1OLA": {
+          "SOFRONIO ESPAÑOLA": {
             "barangay_list": [
               "ABO-ABO",
               "IRARAY",
@@ -16460,7 +16460,7 @@
               "CAMANTAYA",
               "CARMEN",
               "CAWAYAN",
-              "DO\u00d1A JUANA",
+              "DOÑA JUANA",
               "DUBDUBAN",
               "LUSONG",
               "MAHABANG BAYBAY (LONG BEACH)",
@@ -16472,7 +16472,7 @@
             "barangay_list": [
               "AGPUDLOS",
               "CALUNACON",
-              "DO\u00d1A TRINIDAD",
+              "DOÑA TRINIDAD",
               "JUNCARLO",
               "LINAWAN",
               "MABINI",
@@ -16491,7 +16491,7 @@
               "AZARGA",
               "CAMPALINGO",
               "CANJALON",
-              "ESPA\u00d1A",
+              "ESPAÑA",
               "MABINI",
               "MABULO",
               "OTOD",
@@ -16532,7 +16532,7 @@
               "CONCEPCION SUR",
               "PAROYHOG",
               "SAN ISIDRO",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           }
         }
@@ -16620,8 +16620,8 @@
               "BINANDERAHAN",
               "BINITAYAN",
               "BONGABONG",
-              "CABAG\u00d1AN",
-              "CABRARAN PEQUE\u00d1O",
+              "CABAGÑAN",
+              "CABRARAN PEQUEÑO",
               "CAGUIBA",
               "CALABIDONGAN",
               "COMUN",
@@ -16713,7 +16713,7 @@
               "TOMOLIN",
               "TUBURAN",
               "TULA-TULA GRANDE",
-              "TULA-TULA PEQUE\u00d1O",
+              "TULA-TULA PEQUEÑO",
               "TUPAS"
             ]
           },
@@ -16724,8 +16724,8 @@
               "ANISLAG",
               "BAGUMBAYAN",
               "BALINAD",
-              "BA\u00d1ADERO",
-              "BA\u00d1AG",
+              "BAÑADERO",
+              "BAÑAG",
               "BASCARAN",
               "BIGAO",
               "BINITAYAN",
@@ -16760,14 +16760,14 @@
               "NABASAN",
               "NAMANTAO",
               "PANDAN",
-              "PE\u00d1AFRANCIA",
+              "PEÑAFRANCIA",
               "SAGPON",
               "SALVACION",
               "SAN RAFAEL",
               "SAN RAMON",
               "SAN ROQUE",
               "SAN VICENTE GRANDE",
-              "SAN VICENTE PEQUE\u00d1O",
+              "SAN VICENTE PEQUEÑO",
               "SIPI",
               "TABON-TABON",
               "TAGAS",
@@ -16787,11 +16787,11 @@
               "BUBULUSAN",
               "CALZADA",
               "CATOMAG",
-              "DO\u00d1A MERCEDES",
-              "DO\u00d1A TOMASA (MAGATOL)",
+              "DOÑA MERCEDES",
+              "DOÑA TOMASA (MAGATOL)",
               "ILAWOD",
               "INAMNAN GRANDE",
-              "INAMNAN PEQUE\u00d1O",
+              "INAMNAN PEQUEÑO",
               "INASCAN",
               "IRAYA",
               "LOMACAO",
@@ -16802,13 +16802,13 @@
               "MALOBAGO",
               "MANINILA",
               "MAPACO",
-              "MARCIAL O. RA\u00d1OLA (CABALOAON)",
+              "MARCIAL O. RAÑOLA (CABALOAON)",
               "MASARAWAG",
               "MAURARO",
               "MINTO",
               "MORERA",
               "MULADBUCAD GRANDE",
-              "MULADBUCAD PEQUE\u00d1O",
+              "MULADBUCAD PEQUEÑO",
               "ONGO",
               "PALANAS",
               "POBLACION",
@@ -16857,8 +16857,8 @@
               "BGY. 3 - EM'S BARRIO EAST (POB.)",
               "BGY. 4 - SAGPON POB. (SAGPON 1)",
               "BGY. 5 - SAGMIN POB. (SAGPON 2)",
-              "BGY. 6 - BA\u00d1ADERO POB. (SAGPON 3)",
-              "BGY. 7 - BA\u00d1O (POB.)",
+              "BGY. 6 - BAÑADERO POB. (SAGPON 3)",
+              "BGY. 7 - BAÑO (POB.)",
               "BGY. 8 - BAGUMBAYAN (POB.)",
               "BGY. 9 - PINARIC (POB.)",
               "BGY. 10 - CABUGAO",
@@ -16869,9 +16869,9 @@
               "BGY. 15 - ILAWOD EAST POB. (ILAWOD 3)",
               "BGY. 16 - KAWIT-EAST WASHINGTON DRIVE (POB.)",
               "BGY. 17 - RIZAL SREET., ILAWOD (POB.)",
-              "BGY. 18 - CABAG\u00d1AN WEST (POB.)",
-              "BGY. 19 - CABAG\u00d1AN",
-              "BGY. 20 - CABAG\u00d1AN EAST (POB.)",
+              "BGY. 18 - CABAGÑAN WEST (POB.)",
+              "BGY. 19 - CABAGÑAN",
+              "BGY. 20 - CABAGÑAN EAST (POB.)",
               "BGY. 21 - BINANUAHAN WEST (POB.)",
               "BGY. 22 - BINANUAHAN EAST (POB.)",
               "BGY. 23 - IMPERIAL COURT SUBD. (POB.)",
@@ -16884,7 +16884,7 @@
               "BGY. 30 - PIGCALE (POB.)",
               "BGY. 31 - CENTRO-BAYBAY (POB.)",
               "BGY. 32 - SAN ROQUE (BGY. 66)",
-              "BGY. 33 - PNR-PE\u00d1ARANDA ST.-IRAYA (POB.)",
+              "BGY. 33 - PNR-PEÑARANDA ST.-IRAYA (POB.)",
               "BGY. 34 - ORO SITE-MAGALLANES ST. (POB.)",
               "BGY. 35 - TINAGO (POB.)",
               "BGY. 36 - KAPANTAWAN (POB.)",
@@ -16947,7 +16947,7 @@
               "MATARA",
               "MOLOSBOLOS",
               "NATASAN",
-              "NI\u00d1O JESUS (SANTO NI\u00d1O JESUS)",
+              "NIÑO JESUS (SANTO NIÑO JESUS)",
               "NOGPO",
               "PANTAO",
               "RAWIS",
@@ -17253,7 +17253,7 @@
               "SAN VICENTE POB. (BGY. 6.)",
               "SANTA MISERICORDIA",
               "SANTO DOMINGO POB. (BGY. 4)",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "TABACO CITY": {
@@ -17265,12 +17265,12 @@
               "BARANGHAWON",
               "BASAGAN",
               "BASUD (POB.)",
-              "BOG\u00d1ABONG",
+              "BOGÑABONG",
               "BOMBON (POB.)",
               "BONOT",
               "BUANG",
               "BUHIAN",
-              "CABAG\u00d1AN",
+              "CABAGÑAN",
               "COBO",
               "COMON",
               "CORMIDAL",
@@ -17440,7 +17440,7 @@
               "MOTHERLODE",
               "NAKALAYA",
               "NORTH POBLACION",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PAG-ASA",
               "PARANG",
               "PLARIDEL",
@@ -17644,7 +17644,7 @@
               "SAN NICOLAS",
               "SANTA CRUZ",
               "SANTA ELENA",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "VINZONS": {
@@ -17747,7 +17747,7 @@
               "MANGA (MANGGA)",
               "MASOLI",
               "NEIGHBORHOOD",
-              "NI\u00d1O JESUS",
+              "NIÑO JESUS",
               "PAGATPATAN",
               "PALO",
               "PAYAK",
@@ -17853,7 +17853,7 @@
               "SAN ROQUE HEIGHTS",
               "SANTA ELENA",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAISAN"
             ]
           },
@@ -17879,7 +17879,7 @@
               "BIGAAS",
               "BINALIW",
               "BINANUAANAN GRANDE",
-              "BINANUAANAN PEQUE\u00d1O",
+              "BINANUAANAN PEQUEÑO",
               "BONOT-SANTA ROSA",
               "BURABOD",
               "CABANBANAN",
@@ -17915,7 +17915,7 @@
               "SANTA ISABEL (POB.)",
               "SANTA SALUD (POB.)",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O (QUIPAYO)",
+              "SANTO NIÑO (QUIPAYO)",
               "SIBA-O",
               "SIBOBO",
               "SOGOD",
@@ -18099,7 +18099,7 @@
             "barangay_list": [
               "ABUCAYAN",
               "BAGUMBAYAN GRANDE (POB.)",
-              "BAGUMBAYAN PEQUE\u00d1O (POB.)",
+              "BAGUMBAYAN PEQUEÑO (POB.)",
               "BALAYNAN",
               "BELEN (POB.)",
               "BUYO",
@@ -18143,7 +18143,7 @@
               "LA MEDALLA",
               "LA PURISIMA",
               "LA TRINIDAD",
-              "NI\u00d1O JESUS",
+              "NIÑO JESUS",
               "PERPETUAL HELP",
               "SAGRADA",
               "SALVACION",
@@ -18170,7 +18170,7 @@
               "SANTA TERESITA",
               "SANTIAGO",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "LAGONOY": {
@@ -18464,7 +18464,7 @@
               "CARARAYAN",
               "CAROLINA",
               "CONCEPCION GRANDE",
-              "CONCEPCION PEQUE\u00d1O",
+              "CONCEPCION PEQUEÑO",
               "DAYANGDANG",
               "DEL ROSARIO",
               "DINAGA",
@@ -18474,7 +18474,7 @@
               "MABOLO",
               "PACOL",
               "PANICUASON",
-              "PE\u00d1AFRANCIA",
+              "PEÑAFRANCIA",
               "SABANG",
               "SAN FELIPE",
               "SAN FRANCISCO (POB.)",
@@ -18510,7 +18510,7 @@
               "SAN ROQUE COMMONAL",
               "SAN VICENTE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "VILLAFLORIDA"
             ]
           },
@@ -18583,7 +18583,7 @@
               "SAN JUAN (POB.)",
               "SAN VICENTE (POB.)",
               "SANTIAGO (POB.)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGBONG",
               "TINANGIS"
             ]
@@ -18652,7 +18652,7 @@
               "UPPER SANTA CRUZ"
             ]
           },
-          "SAG\u00d1AY": {
+          "SAGÑAY": {
             "barangay_list": [
               "ANIOG",
               "ATULAYAN",
@@ -18669,7 +18669,7 @@
               "SAN ANTONIO (POB.)",
               "SAN ISIDRO (POB.)",
               "SAN ROQUE (POB.)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIBAGUAN",
               "TINORONGAN",
               "TURAGUE"
@@ -18687,10 +18687,10 @@
               "COTMO",
               "DACULANG TUBIG",
               "DEL PILAR (POB.)",
-              "G\u00d1ARAN",
+              "GÑARAN",
               "GRIJALVO",
               "LUPI",
-              "MARAG\u00d1I",
+              "MARAGÑI",
               "PAMUKID",
               "PINAMASAGAN",
               "PIPIAN",
@@ -18864,7 +18864,7 @@
               "MANANAO",
               "NEW CAALUAN",
               "OLAG GRANDE",
-              "OLAG PEQUE\u00d1O",
+              "OLAG PEQUEÑO",
               "OLD CAALUAN",
               "PAG-ASA",
               "PANTAT",
@@ -18928,7 +18928,7 @@
               "MACUTAL",
               "MONING",
               "NAGBARORONG",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "P. TESTON",
               "PANIQUIHAN",
               "PURARAN",
@@ -18946,7 +18946,7 @@
           },
           "BATO": {
             "barangay_list": [
-              "AROYAO PEQUE\u00d1O",
+              "AROYAO PEQUEÑO",
               "BAGUMBAYAN",
               "BANAWANG",
               "BATALAY",
@@ -19022,7 +19022,7 @@
           "PANDAN": {
             "barangay_list": [
               "BAGAWANG",
-              "BALAG\u00d1ONAN",
+              "BALAGÑONAN",
               "BALDOC",
               "CANLUBI",
               "CATAMBAN",
@@ -19160,9 +19160,9 @@
               "MABINI",
               "MAGSAYSAY",
               "OGBONG",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PEDRO VERA (SUMMIT)",
-              "PE\u00d1AFRANCIA (POB.)",
+              "PEÑAFRANCIA (POB.)",
               "QUEZON",
               "QUIRINO (ABUGAN)",
               "RIZAL",
@@ -19239,7 +19239,7 @@
               "SANTA ELENA (POB.)",
               "SANTO CRISTO",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIMAMLA",
               "SOGOD-SIMAMLA",
               "SOGOD-TIBGAO",
@@ -19364,7 +19364,7 @@
           "BATUAN": {
             "barangay_list": [
               "BURGOS",
-              "CAMBA\u00d1EZ",
+              "CAMBAÑEZ",
               "CANARES",
               "COSTA RICA",
               "DANAO",
@@ -19403,7 +19403,7 @@
               "MATUBINAO",
               "MINTAC",
               "NADAWISAN",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PAWICAN",
               "PITOGO",
               "POBLACION",
@@ -19413,7 +19413,7 @@
               "SAN PEDRO",
               "SAN RAFAEL",
               "SANTA TERESITA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGBOAN",
               "TUYBO",
               "VILLA POGADO"
@@ -19444,7 +19444,7 @@
               "NARO",
               "PALOBANDERA",
               "PANANAWAN",
-              "PE\u00d1A ISLAND",
+              "PEÑA ISLAND",
               "PIN-AS",
               "POBLACION",
               "PULOT",
@@ -19463,7 +19463,7 @@
           "CLAVERIA": {
             "barangay_list": [
               "ALBASAN",
-              "BOCA ENGA\u00d1O",
+              "BOCA ENGAÑO",
               "BUYO",
               "CALPI",
               "CANOMAY",
@@ -19474,9 +19474,9 @@
               "MANAPAO",
               "NABASAGAN",
               "NONOC",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PASIG",
-              "PE\u00d1AFRANCIA",
+              "PEÑAFRANCIA",
               "POBLACION DISTRICT I (BGY. 1)",
               "POBLACION DISTRICT II (BGY. 2)",
               "QUEZON",
@@ -19587,7 +19587,7 @@
               "KALIPAY (POB.)",
               "KINAMALIGAN",
               "MALINTA",
-              "MAPI\u00d1A",
+              "MAPIÑA",
               "MAYNGARAN",
               "NURSERY",
               "PATING (POB.)",
@@ -19673,7 +19673,7 @@
               "POBLACION",
               "REAL",
               "RIZAL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TOGORON"
             ]
           },
@@ -19696,7 +19696,7 @@
               "NABANGIG",
               "NIPA",
               "PARINA",
-              "PI\u00d1A",
+              "PIÑA",
               "POBLACION",
               "SALVACION",
               "SAN ANTONIO",
@@ -19776,7 +19776,7 @@
               "BUENAVISTA",
               "BUENOS AIRES",
               "BUYO",
-              "CA\u00d1ELAS",
+              "CAÑELAS",
               "CORBADA",
               "DAPLIAN",
               "DEL ROSARIO",
@@ -19798,7 +19798,7 @@
           },
           "SAN JACINTO": {
             "barangay_list": [
-              "ALMI\u00d1E",
+              "ALMIÑE",
               "BAGACAY",
               "BAGAHANGLAD",
               "BARTOLABAC",
@@ -19814,7 +19814,7 @@
               "JAGNA-AN",
               "LUNA",
               "MABINI",
-              "PI\u00d1A",
+              "PIÑA",
               "ROOSEVELT",
               "SAN ISIDRO",
               "SANTA ROSA",
@@ -19956,7 +19956,7 @@
               "NAMO",
               "NASUJE",
               "OBRERO",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "OTAVI",
               "PADRE DIAZ",
               "PALALE",
@@ -20412,7 +20412,7 @@
               "BARANGAY POBLACION III",
               "BARANGAY POBLACION IV",
               "LA ESPERANZA",
-              "PE\u00d1AFRANCIA",
+              "PEÑAFRANCIA",
               "SALVACION",
               "SAN ANTONIO",
               "SAN BARTOLOME (TALAONGAN)",
@@ -20435,7 +20435,7 @@
               "BATO",
               "BIBINCAHAN",
               "BITAN-O/DALIPAY (POB.)",
-              "BOG\u00d1A",
+              "BOGÑA",
               "BON-OT",
               "BUCALBUCALAN",
               "BUENAVISTA",
@@ -20460,7 +20460,7 @@
               "PAMURAYAN",
               "PANGPANG",
               "PANLAYAAN",
-              "PE\u00d1AFRANCIA",
+              "PEÑAFRANCIA",
               "PIOT (POB.)",
               "POBLACION",
               "POLVORISTA (POB.)",
@@ -20481,7 +20481,7 @@
               "SANTA CRUZ",
               "SANTA LUCIA",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAWANGA",
               "SIRANGAN (POB.)",
               "SUGOD",
@@ -20902,7 +20902,7 @@
           "ANINI-Y": {
             "barangay_list": [
               "BAYO GRANDE",
-              "BAYO PEQUE\u00d1O",
+              "BAYO PEQUEÑO",
               "BUTUAN",
               "CASAY",
               "CASAY VIEJO",
@@ -21065,7 +21065,7 @@
               "LAMPUTONG",
               "LIPATA",
               "MAGSAYSAY (BALUA)",
-              "MALACA\u00d1ANG",
+              "MALACAÑANG",
               "MALALISON ISLAND",
               "MANIGUIN",
               "NABA",
@@ -21243,7 +21243,7 @@
           },
           "PATNONGON": {
             "barangay_list": [
-              "ALVA\u00d1IZ",
+              "ALVAÑIZ",
               "AMPARO",
               "APGAHAN",
               "AURELIANA",
@@ -21404,7 +21404,7 @@
               "DISTRICT II (POB.)",
               "DISTRICT III (POB.)",
               "DISTRICT IV (POB.)",
-              "EGA\u00d1A",
+              "EGAÑA",
               "ESPERANZA I",
               "ESPERANZA II",
               "ESPERANZA III",
@@ -21634,7 +21634,7 @@
               "SANTA RITA",
               "SANTA TERESA",
               "SANTO ANGEL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO"
             ]
           },
@@ -21751,7 +21751,7 @@
               "OLD GUIA",
               "PALAGUIAN",
               "PARALLAN",
-              "PI\u00d1A",
+              "PIÑA",
               "POBLACION ILAWOD",
               "POBLACION ILAYA",
               "POBLACION TABUC",
@@ -21950,7 +21950,7 @@
               "PONDOL",
               "QUIAJO",
               "SANGKAL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "VIZCAYA"
             ]
           },
@@ -22047,7 +22047,7 @@
           "TAPAZ": {
             "barangay_list": [
               "ABANGAY",
-              "ACU\u00d1A",
+              "ACUÑA",
               "AGCOCOC",
               "AGLINAB",
               "AGLUPACAN",
@@ -22129,7 +22129,7 @@
               "NAZARET",
               "NEW POBLACION (CALINGAO)",
               "OLD POBLACION",
-              "PI\u00d1A",
+              "PIÑA",
               "RIZAL",
               "SALVACION",
               "SAN FERNANDO",
@@ -22471,7 +22471,7 @@
             "barangay_list": [
               "BUGNAY",
               "CALIFORNIA",
-              "DE LA PE\u00d1A",
+              "DE LA PEÑA",
               "DEL PILAR",
               "GENERAL LUNA",
               "LA FORTUNA",
@@ -22622,15 +22622,15 @@
               "AGLONOK",
               "ALIBUNAN",
               "BADLAN GRANDE",
-              "BADLAN PEQUE\u00d1O",
+              "BADLAN PEQUEÑO",
               "BADU",
               "BAJE SAN JULIAN",
               "BALATICON",
               "BANBAN GRANDE",
-              "BANBAN PEQUE\u00d1O",
+              "BANBAN PEQUEÑO",
               "BARRIO CALINOG",
               "BINOLOSAN GRANDE",
-              "BINOLOSAN PEQUE\u00d1O",
+              "BINOLOSAN PEQUEÑO",
               "CABAGIAO",
               "CABUGAO",
               "CAHIGON",
@@ -22641,7 +22641,7 @@
               "DALID",
               "DATAGAN",
               "GAMA GRANDE",
-              "GAMA PEQUE\u00d1O",
+              "GAMA PEQUEÑO",
               "GARANGAN",
               "GUINBONYUGAN",
               "GUISO",
@@ -22692,7 +22692,7 @@
               "BUAYA",
               "BUENAVISTA",
               "CABILAO GRANDE",
-              "CABILAO PEQUE\u00d1O",
+              "CABILAO PEQUEÑO",
               "CABUGUANA",
               "CAWAYAN",
               "DAYHAGAN",
@@ -22746,9 +22746,9 @@
               "MAASIN",
               "MAGDUNGAO",
               "MALAG-IT GRANDE",
-              "MALAG-IT PEQUE\u00d1O",
+              "MALAG-IT PEQUEÑO",
               "MAMBIRANAN GRANDE",
-              "MAMBIRANAN PEQUE\u00d1O",
+              "MAMBIRANAN PEQUEÑO",
               "MAN-IT",
               "MANTULANG",
               "MULAPULA",
@@ -22759,7 +22759,7 @@
               "POBLACION ILAYA",
               "PUNONG",
               "QUINAGARINGAN GRANDE",
-              "QUINAGARINGAN PEQUE\u00d1O",
+              "QUINAGARINGAN PEQUEÑO",
               "SABLOGON",
               "SALNGAN",
               "SANTO TOMAS",
@@ -22788,7 +22788,7 @@
               "MACATUNAO",
               "MALANGABANG",
               "MALIOGLIOG",
-              "NI\u00d1O",
+              "NIÑO",
               "NIPA",
               "PLANDICO",
               "POBLACION",
@@ -22836,7 +22836,7 @@
               "TULATULA-AN"
             ]
           },
-          "DUE\u00d1AS": {
+          "DUEÑAS": {
             "barangay_list": [
               "AGUTAYAN",
               "ANGARE",
@@ -22876,11 +22876,11 @@
               "POBLACION C",
               "POBLACION D",
               "PONONG GRANDE",
-              "PONONG PEQUE\u00d1O",
+              "PONONG PEQUEÑO",
               "PUROG",
               "ROMBLON",
               "SAN ISIDRO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAWE",
               "TAMINLA",
               "TINOCUAN",
@@ -22941,7 +22941,7 @@
               "BAYAS (BAYAS ISLAND)",
               "BAYUYAN",
               "BOTONGON",
-              "BULAQUE\u00d1A",
+              "BULAQUEÑA",
               "CALAPDAN",
               "CANO-AN",
               "DAAN BANUA",
@@ -23156,14 +23156,14 @@
               "NABITASAN",
               "NAVAIS",
               "NONOY",
-              "NORTH AVANCE\u00d1A",
+              "NORTH AVANCEÑA",
               "NORTH BALUARTE",
               "NORTH FUNDIDOR",
               "NORTH SAN JOSE",
               "OBRERO-LAPUZ",
-              "O\u00d1ATE DE LEON",
+              "OÑATE DE LEON",
               "ORTIZ",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "OUR LADY OF FATIMA",
               "OUR LADY OF LOURDES",
               "PALE BENEDICTO RIZAL (MANDURRIAO)",
@@ -23204,8 +23204,8 @@
               "SANTA FILOMENA",
               "SANTA ROSA",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O NORTE",
-              "SANTO NI\u00d1O SUR",
+              "SANTO NIÑO NORTE",
+              "SANTO NIÑO SUR",
               "SANTO ROSARIO-DURAN",
               "SEMINARIO (BURGOS JALANDONI)",
               "SIMON LEDESMA",
@@ -23340,13 +23340,13 @@
               "JAYUBO",
               "JOROG",
               "LANOT GRANDE",
-              "LANOT PEQUE\u00d1O",
+              "LANOT PEQUEÑO",
               "LEGAYADA",
               "LUMANAY",
               "MADARAG",
               "MAGBATO",
               "MAITE GRANDE",
-              "MAITE PEQUE\u00d1O",
+              "MAITE PEQUEÑO",
               "MALAG-IT",
               "MANAULAN",
               "MARIBONG",
@@ -23403,12 +23403,12 @@
             "barangay_list": [
               "AGPIPILI",
               "ALCANTARA",
-              "ALME\u00d1ANA",
+              "ALMEÑANA",
               "ANABO",
               "BANKAL",
               "BUENAVISTA",
               "CABANTOHAN",
-              "CAPI\u00d1AHAN",
+              "CAPIÑAHAN",
               "DALIPE",
               "DAPDAPAN",
               "GERONGAN",
@@ -23548,8 +23548,8 @@
               "INABASAN",
               "LAYOG",
               "LINAB",
-              "LI\u00d1AGAN CALSADA",
-              "LI\u00d1AGAN TACAS",
+              "LIÑAGAN CALSADA",
+              "LIÑAGAN TACAS",
               "MAGSAYSAY",
               "MANDOG",
               "MARI POB. (MABINI-RIZAL)",
@@ -23719,7 +23719,7 @@
               "NAUMUAN",
               "SINGAY",
               "TALIBONG GRANDE",
-              "TALIBONG PEQUE\u00d1O",
+              "TALIBONG PEQUEÑO",
               "TIPOLO",
               "TOLARUCAN",
               "TUMAY",
@@ -23875,7 +23875,7 @@
               "BAGACAY",
               "BATUAN",
               "BONDULAN",
-              "BORO\u00d1GON",
+              "BOROÑGON",
               "CANAS",
               "CAPINANG",
               "CUBAY",
@@ -23917,7 +23917,7 @@
               "DUMILES",
               "GARITA",
               "GINES NUEVO",
-              "IMBANG PEQUE\u00d1O",
+              "IMBANG PEQUEÑO",
               "IMBESAD-AN",
               "IPROG",
               "LIP-AC",
@@ -24047,7 +24047,7 @@
               "SANTA CRUZ",
               "SANTA TERESA",
               "SANTO ANGEL",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "SAN RAFAEL": {
@@ -24558,7 +24558,7 @@
               "POBLACION III (BARANGAY 3)",
               "SAN ISIDRO",
               "SAN JOSE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TABIGUE",
               "TANZA",
               "TOMONGTONG",
@@ -25243,7 +25243,7 @@
               "SAL-ING",
               "SAN ISIDRO",
               "SAN ROQUE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGUSTUSAN"
             ]
           },
@@ -25560,7 +25560,7 @@
               "SAN CARLOS",
               "SAN MIGUEL",
               "SANTA FE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TABOK",
               "TAMING",
               "VILLA ANUNCIADO"
@@ -25748,7 +25748,7 @@
               "SAA",
               "SAN ISIDRO",
               "SAN JOSE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO",
               "SUA",
               "TAMBOOK",
@@ -25816,7 +25816,7 @@
               "SAGUISE",
               "SALOG",
               "SAN JOSE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAYTAY",
               "TUGAS",
               "TULANG"
@@ -26155,7 +26155,7 @@
               "SAN ISIDRO",
               "SAN JOSE",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TOMOC"
             ]
           },
@@ -26257,7 +26257,7 @@
               "SAN JOSE",
               "SAN PEDRO",
               "SAN ROQUE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIKATUNA",
               "SUBA",
               "TANGHALIGUE",
@@ -26613,7 +26613,7 @@
               "NANGKA",
               "PONDOL",
               "PRENZA",
-              "SANTA CRUZ-SANTO NI\u00d1O (POB.)",
+              "SANTA CRUZ-SANTO NIÑO (POB.)",
               "SINGSING",
               "SUNOG",
               "VITO"
@@ -26720,7 +26720,7 @@
               "POLAMBATO",
               "SAMBAG (POB.)",
               "SAN VICENTE (POB.)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO (POB.)",
               "SIOCON",
               "SUDLONON",
@@ -27169,7 +27169,7 @@
               "PAJO",
               "PANGAN-AN",
               "POBLACION",
-              "PUNTA ENGA\u00d1O",
+              "PUNTA ENGAÑO",
               "PUSOK",
               "SABANG",
               "SAN VICENTE",
@@ -27218,18 +27218,18 @@
           },
           "MALABUYOC": {
             "barangay_list": [
-              "ARME\u00d1A (CANSILONGAN)",
+              "ARMEÑA (CANSILONGAN)",
               "BARANGAY I (POB.)",
               "BARANGAY II (POB.)",
-              "CERDE\u00d1A (ANSAN)",
+              "CERDEÑA (ANSAN)",
               "LABRADOR (BULOD)",
               "LOMBO",
               "LOOC",
               "MAHANLUD",
               "MINDANAO (PAJO)",
-              "MONTA\u00d1EZA (INAMLANG)",
+              "MONTAÑEZA (INAMLANG)",
               "SALMERON (BULAK)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SORSOGON (BALIMAYA)",
               "TOLOSA (CALATAGAN)"
             ]
@@ -27371,7 +27371,7 @@
               "CAN-UKBAN",
               "CANANGCA-AN",
               "CANSALO-AY",
-              "CA\u00d1ANG",
+              "CAÑANG",
               "DAANLUNGSOD",
               "GAWI",
               "HAGDAN",
@@ -27752,7 +27752,7 @@
               "SAGAY",
               "SAM-ANG",
               "SANGI",
-              "SANTO NI\u00d1O (MAINGGIT)",
+              "SANTO NIÑO (MAINGGIT)",
               "SUBAYON",
               "TALAVERA",
               "TUBOD",
@@ -27810,7 +27810,7 @@
               "PUTAT",
               "SAN JUAN",
               "SANDAYONG",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIOTES",
               "SUMON",
               "TOMINJAO",
@@ -27907,7 +27907,7 @@
               "BARANGAY I (POB.)",
               "BARANGAY II (POB.)",
               "BASAK",
-              "BI\u00d1OHON",
+              "BIÑOHON",
               "CABANLUTAN",
               "CALASGA-AN",
               "CAMBAGAHAN",
@@ -27915,7 +27915,7 @@
               "CAMBANJAO",
               "CAMBUILAO",
               "CANLARGO",
-              "CAPI\u00d1AHAN",
+              "CAPIÑAHAN",
               "CONSOLACION",
               "DANSULAN",
               "HANGYAD",
@@ -28005,7 +28005,7 @@
               "NAGCASUNOG",
               "NALUNDAN",
               "PANGALAYCAYAN",
-              "PE\u00d1AHAN",
+              "PEÑAHAN",
               "POBLACION (PAYABON)",
               "SALONG",
               "TAGAYTAY",
@@ -28290,8 +28290,8 @@
               "NAIBA",
               "POBLACION",
               "SAN ROQUE",
-              "SANTO NI\u00d1O",
-              "SE\u00d1ORA ASCION (CALO)",
+              "SANTO NIÑO",
+              "SEÑORA ASCION (CALO)",
               "SIAPO",
               "TAMPI",
               "TAPON NORTE"
@@ -28396,7 +28396,7 @@
               "SAN MIGUEL",
               "SANTA CRUZ NUEVO",
               "SANTA CRUZ VIEJO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TUGAS"
             ]
           },
@@ -28806,7 +28806,7 @@
               "BORAC",
               "CABUNGAAN",
               "CALUMPANG",
-              "CAPI\u00d1AHAN",
+              "CAPIÑAHAN",
               "CARAYCARAY",
               "CATMON",
               "HAGUIKHIKAN",
@@ -28822,7 +28822,7 @@
               "SABANG",
               "SAN PABLO",
               "SANTISSIMO ROSARIO POB. (SANTO ROSA)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TALUSTUSAN",
               "VILLA CANEJA",
               "VILLA CONSUELO"
@@ -29026,14 +29026,14 @@
               "MAGSAYSAY",
               "MALAINTOS",
               "MALOBAGO",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "RIZAL",
               "SAN ISIDRO (MALABAG)",
               "SAN PASCUAL",
               "SAN ROQUE",
               "SAN VICENTE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TANAUAN",
               "TIKLING",
               "VILLAHERMOSA"
@@ -29051,7 +29051,7 @@
               "LIMBUJAN",
               "MACAPAGAL",
               "MAGSAYSAY",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PINGAN",
               "POBLACION BARANGAY 1",
               "POBLACION BARANGAY 2",
@@ -29147,7 +29147,7 @@
               "SAN JOSE",
               "SAN JUAN",
               "SAN PEDRO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAPAO",
               "SULANGAN",
               "SULUAN",
@@ -29382,7 +29382,7 @@
               "SAN VICENTE",
               "SANTA CRUZ (LORO DIYO)",
               "SANTA MARGARITA",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "SALCEDO": {
@@ -29488,7 +29488,7 @@
               "SAN JUAN",
               "SAN MATEO",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO TOMAS",
               "TABI (POB.)"
             ]
@@ -29582,7 +29582,7 @@
               "SAN ROQUE",
               "SANTA FE (POB.)",
               "SANTA LUCIA (POB.)",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "TABIGUE",
               "TADOC",
               "TIB-O",
@@ -29629,7 +29629,7 @@
               "MILAGROSA (POB.)",
               "MUDBORON",
               "P. BARRANTES",
-              "PE\u00d1ALOSA",
+              "PEÑALOSA",
               "PEPITA",
               "SALVACION",
               "SALVACION POBLACION",
@@ -29643,7 +29643,7 @@
               "SAN ROQUE (POB.)",
               "SAN VICENTE",
               "SANTIAGO",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SANTOL",
               "TABANGOHAY",
               "TOMBO",
@@ -29657,7 +29657,7 @@
               "BENOLHO",
               "CAMBALADING",
               "DAMULA-AN",
-              "DO\u00d1A MARIA (KANGKUIRINA)",
+              "DOÑA MARIA (KANGKUIRINA)",
               "MAHAYAG",
               "MAHAYAHAY",
               "POBLACION",
@@ -29764,12 +29764,12 @@
               "MABINI",
               "MARCELO",
               "NAGA",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PLARIDEL",
               "PONONG",
               "RIVILLA",
               "SAN AGUSTIN",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TABUNOK",
               "TAGAYTAY",
               "TINAGO DISTRICT (POB.)",
@@ -30028,7 +30028,7 @@
               "POBLACION ZONE II",
               "POTOT",
               "SAN JOAQUIN",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TALAIRAN",
               "TALISAY",
               "TOLIBAO",
@@ -30250,7 +30250,7 @@
               "SAN ROQUE",
               "SANTA CRUZ",
               "SANTA MARGARITA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TABUNOK",
               "TAGNATE",
               "TALISAY",
@@ -30330,7 +30330,7 @@
               "SAN FRANCISCO",
               "SAN ROQUE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SANTO ROSARIO",
               "TABUNOK",
               "TOLINGON",
@@ -30378,7 +30378,7 @@
               "SAN PEDRO",
               "SAN ROQUE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SARI-SARI",
               "TINAMBACAN",
               "TUBA",
@@ -30443,7 +30443,7 @@
               "SAN ANDRES",
               "SAN PABLO",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGKIP",
               "TOLOSAHAY",
               "VILLA HERMOSA"
@@ -30470,7 +30470,7 @@
               "SAN IGNACIO",
               "SAN ISIDRO",
               "SANTO DOMINGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGAYTAY",
               "TONGONAN",
               "TUGBONG"
@@ -30489,7 +30489,7 @@
               "CALABNIAN",
               "CALAGHUSAN",
               "CALTAYAN",
-              "CANBA\u00d1EZ",
+              "CANBAÑEZ",
               "COGON",
               "DUYOG",
               "GIMENARAT EAST",
@@ -30557,14 +30557,14 @@
               "CASUNTINGAN",
               "CAUSWAGAN",
               "DANAO",
-              "DO\u00d1A JOSEFA",
+              "DOÑA JOSEFA",
               "GENERAL LUNA",
               "KILING",
               "LANAWAN",
               "LIWAYWAY",
               "MAYA",
               "OGUISAN",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PALALE 1",
               "PALALE 2",
               "POBLACION DISTRICT 1",
@@ -30601,7 +30601,7 @@
               "MALIGAYA",
               "MALINAO",
               "MALIPOON",
-              "PALA\u00d1OGAN",
+              "PALAÑOGAN",
               "PARIL",
               "PINAMONOAN",
               "POBLACION",
@@ -30609,7 +30609,7 @@
               "SAN ISIDRO",
               "SAN JUAN",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGAYTAY",
               "UGUIS",
               "UNION",
@@ -30666,7 +30666,7 @@
               "SAN VICENTE",
               "SANTA FE",
               "SANTA PAZ",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "TAG-OS",
               "TAGLIBAS IMELDA",
               "TEMPLANZA",
@@ -30781,7 +30781,7 @@
               "DON FELIPE LARRAZABAL",
               "DON POTENCIANO LARRAZABAL",
               "DONGHOL",
-              "DO\u00d1A FELIZA Z. MEJIA",
+              "DOÑA FELIZA Z. MEJIA",
               "ESPERANZA",
               "GAAS",
               "GREEN VALLEY",
@@ -30828,7 +30828,7 @@
               "SAN JUAN",
               "SAN PABLO (SIMANGAN)",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SUMANGGA",
               "TAMBULILID",
               "TONGONAN",
@@ -30968,7 +30968,7 @@
               "BUNACAN",
               "BUSAY",
               "CABUNGAAN",
-              "CAPI\u00d1AHAN (POB.)",
+              "CAPIÑAHAN (POB.)",
               "CROSSING (POB.)",
               "DAJA-DAKU",
               "DAJA-DIOT",
@@ -31199,7 +31199,7 @@
               "BARANGAY 103-A (SAN PAGLAUM)",
               "BARANGAY 104 (SALVACION)",
               "BARANGAY 105 (SUHI)",
-              "BARANGAY 106 (SANTO NI\u00d1O)",
+              "BARANGAY 106 (SANTO NIÑO)",
               "BARANGAY 107 (SANTA ELENA)",
               "BARANGAY 108 (TAGAPURO)",
               "BARANGAY 109 (V AND G SUBD.)",
@@ -31262,7 +31262,7 @@
               "SAN VICTOR",
               "SANTA CRUZ",
               "SANTA ELENA",
-              "SANTO NI\u00d1O POB. (HACLAGAN)",
+              "SANTO NIÑO POB. (HACLAGAN)",
               "SOLANO",
               "TALOLORA",
               "TUGOP"
@@ -31274,7 +31274,7 @@
               "CANMOGSAY",
               "CANTARIWIS",
               "CAPANGIHAN",
-              "DO\u00d1A BRIGIDA",
+              "DOÑA BRIGIDA",
               "IMELDA",
               "MALBOG",
               "OLOT",
@@ -31296,7 +31296,7 @@
               "SAN PEDRO",
               "SAN ROQUE",
               "SAN VICENTE (POB.)",
-              "SANTO NI\u00d1O (POB.)"
+              "SANTO NIÑO (POB.)"
             ]
           },
           "VILLABA": {
@@ -31375,7 +31375,7 @@
               "PROGRESSO",
               "SAN ANTONIO",
               "SAN PEDRO",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "BOBON": {
@@ -31433,7 +31433,7 @@
               "CULARIMA",
               "DAGANAS",
               "DALAKIT (POB.)",
-              "DO\u00d1A PULQUERIA (HIMBANG)",
+              "DOÑA PULQUERIA (HIMBANG)",
               "GALUTAN",
               "GEBALAGNAN (HIBALAGNAN)",
               "GEBULWANGAN",
@@ -31511,7 +31511,7 @@
               "NAHULID",
               "OPONG",
               "OSANG",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "P. REBADULLA",
               "ROXAS",
               "SAGUDSURON",
@@ -31575,7 +31575,7 @@
               "CAGAASAN",
               "CAGDARA-O",
               "CAHAYAGAN",
-              "CALINTAAN POB. (STO. NI\u00d1O)",
+              "CALINTAAN POB. (STO. NIÑO)",
               "CALOMOTAN",
               "CANDAWID",
               "CANGCAHIPOS",
@@ -31595,7 +31595,7 @@
               "MUALBUAL",
               "NAPOTIOCAN (SALVACION)",
               "OLERAS",
-              "ONAY (DO\u00d1A LUISA)",
+              "ONAY (DOÑA LUISA)",
               "PALMERA",
               "PANGDAN",
               "RAWIS",
@@ -31664,7 +31664,7 @@
               "MACARTHUR",
               "MAGSAYSAY",
               "MATELARAG",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PACO",
               "PALANAS",
               "PEREZ",
@@ -31737,7 +31737,7 @@
               "LOWER CAYNAGA",
               "MAGHIPID",
               "MAGSAYSAY",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PAGUITE",
               "ROXAS",
               "SAMPAGUITA",
@@ -31774,7 +31774,7 @@
               "CAHICSAN",
               "CHITONGCO (POB.)",
               "DE MARIA",
-              "DO\u00d1A LUCIA",
+              "DOÑA LUCIA",
               "ECO (POB.)",
               "FLORMINA",
               "HINABANGAN",
@@ -31817,7 +31817,7 @@
               "NAPO",
               "NATAWO",
               "NIPA",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PANGPANG",
               "PAYSUD",
               "SANGAY",
@@ -31836,7 +31836,7 @@
               "CAGBIGAJO",
               "CAMPARANGA",
               "CANJUMADAL",
-              "DO\u00d1A ANECITA",
+              "DOÑA ANECITA",
               "GE-ADGAWAN",
               "GEPARAYAN",
               "GINULGAN",
@@ -32030,7 +32030,7 @@
               "PANJOBJOBAN I",
               "PANJOBJOBAN II",
               "POBLACION",
-              "RO\u00d1O",
+              "ROÑO",
               "SAN ISIDRO",
               "SAN JOSE",
               "TALAHID",
@@ -32170,7 +32170,7 @@
               "HUGON ROSALES",
               "JACINTO",
               "JIMAUTAN",
-              "JOSE A. RO\u00d1O",
+              "JOSE A. ROÑO",
               "KALILIHAN",
               "KILIKILI",
               "LA PAZ",
@@ -32208,7 +32208,7 @@
               "OBRERO",
               "OLERA",
               "OQUENDO (POB.)",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PAGBALICAN",
               "PALANAS",
               "PALANOGAN",
@@ -32217,7 +32217,7 @@
               "PANOYPOY",
               "PATONG",
               "PAYAHAN",
-              "PE\u00d1A",
+              "PEÑA",
               "PILAR",
               "PINAMOROTAN",
               "QUEZON",
@@ -32330,7 +32330,7 @@
               "MAULONG",
               "MERCEDES",
               "MOMBON",
-              "MU\u00d1OZ (POBLACION 14)",
+              "MUÑOZ (POBLACION 14)",
               "NEW MAHAYAG",
               "OLD MAHAYAG",
               "PALANYOGON",
@@ -32469,7 +32469,7 @@
               "NGOSO",
               "PALAMBRAG",
               "PALANAS",
-              "PI\u00d1APLATA",
+              "PIÑAPLATA",
               "PIZARRO",
               "POLOGON",
               "PUROG",
@@ -32486,7 +32486,7 @@
               "SAN PELAYO",
               "SAN RAMON",
               "SANTA ELENA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SENIBARAN (VILLA LEONA)",
               "SIDMON",
               "TAGNAO",
@@ -32510,7 +32510,7 @@
               "LIM-AO",
               "MALIHAO",
               "MUGDO",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "POBLACION 1 (BARANGAY 1)",
               "POBLACION 2 (BARANGAY 2)",
               "RAWIS",
@@ -32573,14 +32573,14 @@
               "MABUHAY",
               "MALOBAGO",
               "ODOC",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PANAN-AWAN",
               "PINALANGA",
               "PINAMITINAN (POB.)",
-              "RO\u00d1O",
+              "ROÑO",
               "SAN ROQUE",
               "SANTA RITA",
-              "SANTO NI\u00d1O POB. (DIST. II)",
+              "SANTO NIÑO POB. (DIST. II)",
               "TAGALAG",
               "TINABANAN",
               "VELOSO"
@@ -32640,7 +32640,7 @@
               "POBLACION I-A",
               "PUSONGAN",
               "SAN ANDRES",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SARAO"
             ]
           },
@@ -32653,9 +32653,9 @@
               "CAMBAYE",
               "CANLAPWAS (POB.)",
               "LIBERTAD",
-              "PA\u00d1GE",
+              "PAÑGE",
               "SAN LUIS",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "VIEJO",
               "VILLAHERMOSA OCCIDENTAL",
               "VILLAHERMOSA ORIENTAL"
@@ -32676,7 +32676,7 @@
               "CASANDIG II",
               "CAWAYAN",
               "CONCEPCION",
-              "JOSE RO\u00d1O",
+              "JOSE ROÑO",
               "LAWAAN I",
               "LAWAAN II",
               "LIPATA",
@@ -32699,7 +32699,7 @@
               "POBLACION 6",
               "SALAY",
               "SAN ISIDRO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SULOPAN",
               "TABUCAN",
               "TAPUL",
@@ -32900,7 +32900,7 @@
               "UNION"
             ]
           },
-          "SANTO NI\u00d1O": {
+          "SANTO NIÑO": {
             "barangay_list": [
               "BALATGUTI",
               "BARAS",
@@ -33029,7 +33029,7 @@
               "SAN RAFAEL (BUAYA)",
               "SAN ROQUE",
               "SANTA ROSA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SOLEDAD (POB.)",
               "TAYUD (POB.)",
               "TOMABE",
@@ -33124,7 +33124,7 @@
               "SAN RAMON",
               "SAN VICENTE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAA",
               "TALISAY",
               "TAYTAGAN",
@@ -33165,8 +33165,8 @@
               "SALVACION",
               "SAN PABLO ISLAND",
               "SAN PEDRO ISLAND",
-              "SANTO NI\u00d1O I",
-              "SANTO NI\u00d1O II",
+              "SANTO NIÑO I",
+              "SANTO NIÑO II",
               "TAHUSAN",
               "TALISAY",
               "TAWOG",
@@ -33316,7 +33316,7 @@
               "SAN RAFAEL",
               "SANTA CRUZ",
               "SANTA ROSA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO",
               "SORO-SORO",
               "TAGNIPA (POB.)",
@@ -33354,7 +33354,7 @@
               "SAN VICENTE (UPPER SAN ROQUE)",
               "SAN VICENTE POBLACION",
               "SANTA CRUZ (POB.)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO (POB.)",
               "SINDANGAN",
               "UPPER ICHON",
@@ -33395,7 +33395,7 @@
               "SAN VICENTE",
               "SANGAHON",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TALIWA (POB.)",
               "TIGBAWAN I",
               "TIGBAWAN II",
@@ -33520,7 +33520,7 @@
               "SAN VICENTE",
               "SANTA CRUZ (POB.)",
               "SANTA FILOMENA",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SOMOJE",
               "SUA",
               "TIMBA"
@@ -33741,7 +33741,7 @@
               "SAN PEDRO",
               "SAN VICENTE",
               "SANTA CRUZ (POB.)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SICAYAB BOCANA",
               "SIGAYAN",
               "SILINOG",
@@ -33828,7 +33828,7 @@
               "SAN JUAN",
               "SAN ROQUE",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAS",
               "SIBALIC",
               "TIPAN",
@@ -33900,7 +33900,7 @@
               "SAN ANTONIO (LOOY)",
               "SAN VICENTE",
               "SANAO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SERES",
               "SEROAN",
               "SINGATONG",
@@ -33983,7 +33983,7 @@
               "SAN MIGUEL",
               "SAN ROQUE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SILUCAP",
               "TAPICAN",
               "TIMAN",
@@ -34037,7 +34037,7 @@
               "UNIDOS"
             ]
           },
-          "PI\u00d1AN (NEW PI\u00d1AN)": {
+          "PIÑAN (NEW PIÑAN)": {
             "barangay_list": [
               "ADANTE",
               "BACUYONG",
@@ -34091,7 +34091,7 @@
               "SAN ANTONIO (PAETAN)",
               "SAN MIGUEL (LOBOC)",
               "SAN PEDRO",
-              "SANTO NI\u00d1O (LANTOY)",
+              "SANTO NIÑO (LANTOY)",
               "SIANIB",
               "SILAWE",
               "VILLAHERMOSA"
@@ -34118,8 +34118,8 @@
               "PANAMPALAY",
               "PANGOLOGON",
               "PIAO",
-              "PI\u00d1ALAN",
-              "PI\u00d1AMAR",
+              "PIÑALAN",
+              "PIÑAMAR",
               "PONGOLAN",
               "SALISIG",
               "SEBOD",
@@ -34180,12 +34180,12 @@
               "POBLACION EAST",
               "PUKAY",
               "RAMON MAGSAYSAY",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAMBALANG",
               "TAPALAN"
             ]
           },
-          "SERGIO OSME\u00d1A SR.": {
+          "SERGIO OSMEÑA SR.": {
             "barangay_list": [
               "ANTONINO",
               "BAGONG BAGUIO",
@@ -34244,7 +34244,7 @@
               "MACASING",
               "MANGILAY",
               "MOYO",
-              "MU\u00d1OZ",
+              "MUÑOZ",
               "PANGE",
               "PARANGLUMBA (POB.)",
               "POLAYO",
@@ -34282,7 +34282,7 @@
               "PASILNAHUT",
               "POBLACION",
               "PULIRAN",
-              "SANTO NI\u00d1O (CULABOG)",
+              "SANTO NIÑO (CULABOG)",
               "TANGARAK"
             ]
           },
@@ -34326,7 +34326,7 @@
               "DICOYONG",
               "DISUD",
               "DON RICARDO MACIAS (DINOBOT)",
-              "DO\u00d1A JOSEFA",
+              "DOÑA JOSEFA",
               "DUMALOGDOG",
               "FATIMA",
               "GAMPIS",
@@ -34351,7 +34351,7 @@
               "PANGALALAN",
               "PIAO",
               "POBLACION",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO",
               "SIARE",
               "TALINGA",
@@ -34402,7 +34402,7 @@
               "CATUYAN",
               "CULASIAN",
               "DANGANON",
-              "DO\u00d1A CECILIA",
+              "DOÑA CECILIA",
               "GUBAN",
               "LAGUNDI",
               "LIBUCON",
@@ -34413,7 +34413,7 @@
               "NAPULAN",
               "PANABUTAN",
               "PIACAN",
-              "PI\u00d1A",
+              "PIÑA",
               "PISA ITOM",
               "PISA PUTI",
               "PUGOS",
@@ -34446,7 +34446,7 @@
               "NEW DAPITAN",
               "POBLACION (TAMPILISAN)",
               "SANDAYONG",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SITUBO",
               "TILUBOG",
               "TININGGAAN",
@@ -34714,7 +34714,7 @@
               "LOWER BAGONG TUDELA",
               "MANSANAS",
               "MORADJI",
-              "NEME\u00d1O",
+              "NEMEÑO",
               "NOPULAN",
               "SEBUKANG",
               "TAGAYTAY HILL",
@@ -34832,7 +34832,7 @@
               "KABUHI",
               "LOURMAH (LOWER MAHAYAG)",
               "LOWER SALUG DAKU",
-              "LOWER SANTO NI\u00d1O",
+              "LOWER SANTO NIÑO",
               "MALUBO",
               "MANGUILES",
               "MARABANAN (BALANAN)",
@@ -34850,7 +34850,7 @@
               "TULAN",
               "TUMAPIC",
               "UPPER SALUG DAKU",
-              "UPPER SANTO NI\u00d1O"
+              "UPPER SANTO NIÑO"
             ]
           },
           "MARGOSATUBIG": {
@@ -34988,7 +34988,7 @@
               "SANTA LUCIA (POB.)",
               "SANTA MARIA",
               "SANTIAGO (POB.)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAWAGAN SUR",
               "TIGUMA",
               "TUBURAN (POB.)",
@@ -35118,7 +35118,7 @@
               "POBLACION",
               "RIZAL",
               "SAN MIGUEL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAWA",
               "TUNGAWAN",
               "UPPER SICPAO"
@@ -35132,7 +35132,7 @@
               "CAPISAN",
               "CONCEPCION",
               "CULABAY",
-              "DO\u00d1A JOSEFINA",
+              "DOÑA JOSEFINA",
               "LUMBIA",
               "MABUHAY",
               "MALIM",
@@ -35220,7 +35220,7 @@
               "SAMBULAWAN",
               "SAN ANTONIO",
               "SAN CARLOS (POB.)",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SANTO ROSARIO",
               "SUGOD",
               "TABUAN",
@@ -35324,7 +35324,7 @@
               "SANTA BARBARA",
               "SANTA CATALINA",
               "SANTA MARIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIBULAO (CARUAN)",
               "SINUBUNG",
               "SINUNOC",
@@ -35377,7 +35377,7 @@
               "PAYONGAN",
               "POBLACION",
               "SANTA MARIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TALAPTAP",
               "TAMPALAN",
               "TANDIONG MUSLIM",
@@ -35471,7 +35471,7 @@
               "CAPARAN",
               "DOMANDAN",
               "DON ANDRES",
-              "DO\u00d1A JOSEFA",
+              "DOÑA JOSEFA",
               "GUITUAN",
               "IPIL HEIGHTS",
               "LABI",
@@ -35513,7 +35513,7 @@
               "LUMBAYAO",
               "NAZARETH",
               "PALINTA",
-              "PE\u00d1ARANDA",
+              "PEÑARANDA",
               "POBLACION",
               "RIVERSIDE",
               "SANGHANAN",
@@ -35543,7 +35543,7 @@
               "PINALIM (SAN ROQUE)",
               "POBLACION",
               "PUNAWAN",
-              "SANTO NI\u00d1O (CALIRAN)",
+              "SANTO NIÑO (CALIRAN)",
               "SAWA",
               "SIOTON",
               "TAGUISIAN",
@@ -35649,7 +35649,7 @@
               "LA FORTUNA",
               "LABATAN",
               "MAYABO (SANTA MARIA)",
-              "MINUNDAS (SANTO. NI\u00d1O)",
+              "MINUNDAS (SANTO. NIÑO)",
               "MOUNTAIN VIEW (PULUAN)",
               "NANAN",
               "POBLACION (PAYAO)",
@@ -35796,7 +35796,7 @@
               "SAN ISIDRO",
               "SAN PEDRO",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SISAY",
               "TAGLIBAS",
               "TIGBANUANG",
@@ -35895,7 +35895,7 @@
               "SAINT PETER",
               "SAN JOSE",
               "SAN MARTIN",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SILAE",
               "SIMAYA",
               "SINANGLANAN",
@@ -35937,7 +35937,7 @@
               "MIARAY",
               "MIGCUYA",
               "NEW VISAYAS",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "POBLACION",
               "SAGBAYAN",
               "SAN VICENTE"
@@ -36044,7 +36044,7 @@
               "LABUAGON",
               "MAGSAYSAY",
               "MARAPANGI",
-              "MASCARI\u00d1AS",
+              "MASCARIÑAS",
               "NATULONGAN",
               "NEW KIDAPAWAN",
               "OLD KIBAWE",
@@ -36170,7 +36170,7 @@
               "SAN MIGUEL",
               "SANKANAN",
               "SANTIAGO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TANKULAN (POB.)",
               "TICALA"
             ]
@@ -36327,7 +36327,7 @@
               "SAN ISIDRO",
               "SAN MIGUEL",
               "SAN RAFAEL",
-              "SANTO NI\u00d1O (LUMBAYAWA)",
+              "SANTO NIÑO (LUMBAYAWA)",
               "TAGBAK",
               "TIKALAAN"
             ]
@@ -36385,7 +36385,7 @@
               "MANDUAO",
               "PANGHIAWAN",
               "POBLACION",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TANGARO"
             ]
           },
@@ -36414,7 +36414,7 @@
               "SAN MIGUEL",
               "SAN ROQUE",
               "TUBOD",
-              "TUPSAN PEQUE\u00d1O"
+              "TUPSAN PEQUEÑO"
             ]
           },
           "MAMBAJAO": {
@@ -36649,7 +36649,7 @@
               "REBUCON",
               "RIVERSIDE",
               "SAN ROQUE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIMBUCO",
               "SMALL BANISILAN",
               "SUCODAN",
@@ -37044,7 +37044,7 @@
               "POBLACION",
               "PUALAS",
               "SAN ANTONIO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TADEN",
               "TAGURANAO",
               "TANGUEGUIRON",
@@ -37375,7 +37375,7 @@
               "DALAPANG",
               "DIGUAN",
               "DIMALUNA",
-              "DO\u00d1A CONSUELO",
+              "DOÑA CONSUELO",
               "EMBARGO",
               "GALA",
               "GANGO",
@@ -37512,7 +37512,7 @@
               "SAN ISIDRO BAJO",
               "SAN LORENZO RUIZ (SUNGAN)",
               "SAN VICENTE",
-              "SE\u00d1OR",
+              "SEÑOR",
               "SINONOC",
               "TIPAN"
             ]
@@ -37564,7 +37564,7 @@
               "SAN VICENTE",
               "SANTA CRUZ",
               "SANTA MARIA (BAGA)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SICOT",
               "SILANGA",
               "SILANGIT",
@@ -38020,7 +38020,7 @@
               "LUBLUBAN",
               "POBLACION",
               "RETABLO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TANGCUB",
               "TAYTAYAN"
             ]
@@ -38245,7 +38245,7 @@
               "MAPARAT",
               "NEW ALEGRIA",
               "NGAN",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PANANSALAN",
               "POBLACION",
               "SAN JOSE",
@@ -38270,7 +38270,7 @@
               "CONCEPCION",
               "DATU AMPUNAN",
               "DATU DAVAO",
-              "DO\u00d1A JOSEFA",
+              "DOÑA JOSEFA",
               "EL KATIPUNAN",
               "IL PAPA",
               "IMELDA",
@@ -38294,11 +38294,11 @@
               "SABUD",
               "SAN ANTONIO",
               "SANTA EMILIA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SISIMON"
             ]
           },
-          "MABINI (DO\u00d1A ALICIA)": {
+          "MABINI (DOÑA ALICIA)": {
             "barangay_list": [
               "ANITAPAN",
               "CABUYUAN",
@@ -38473,7 +38473,7 @@
               "SAN ROQUE",
               "SAN VICENTE",
               "SANTA MARIA",
-              "SANTO NI\u00d1O (KAO)",
+              "SANTO NIÑO (KAO)",
               "SASA",
               "TAGNOCON"
             ]
@@ -38530,7 +38530,7 @@
               "CAMONING",
               "CANATAN",
               "CONCEPCION",
-              "DO\u00d1A ANDREA",
+              "DOÑA ANDREA",
               "MAGATOS",
               "NAPUNGAS",
               "NEW BANTAYAN",
@@ -38569,7 +38569,7 @@
               "NEW CAMILING",
               "SALVACION",
               "SAN ISIDRO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TABA",
               "TIBULAO",
               "TUBOD",
@@ -38632,7 +38632,7 @@
               "MIRANDA (POB.)",
               "MONCADO (POB.)",
               "PANGUBATAN (TALICOD I)",
-              "PE\u00d1APLATA (POB.)",
+              "PEÑAPLATA (POB.)",
               "POBLACION (KAPUTIAN)",
               "SAN AGUSTIN",
               "SAN ANTONIO",
@@ -38642,7 +38642,7 @@
               "SAN MIGUEL (MAGAMONO)",
               "SAN REMIGIO",
               "SANTA CRUZ (TALICOD II)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SION (ZION)",
               "TAGBAOBO",
               "TAGBAY",
@@ -38691,7 +38691,7 @@
               "SAN ROQUE",
               "SANTA CRUZ",
               "SANTA FE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SUAWON"
             ]
           },
@@ -38730,7 +38730,7 @@
               "SAN ROQUE",
               "SAN VICENTE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O (POB.)",
+              "SANTO NIÑO (POB.)",
               "SINDATON",
               "SOUTHERN DAVAO",
               "TAGPORE",
@@ -38752,7 +38752,7 @@
               "PINAMUNO",
               "SABANGAN",
               "SAN MIGUEL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SAWATA"
             ]
           },
@@ -38783,7 +38783,7 @@
             "barangay_list": [
               "DAGOHOY",
               "PALMA GIL",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           }
         }
@@ -38812,7 +38812,7 @@
               "POBLACION",
               "POBLACION DOS",
               "RIZAL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIBAYAN",
               "TINONGTONGAN",
               "TUBOD",
@@ -38895,7 +38895,7 @@
               "CAMANSI",
               "CARMEN",
               "CATALUNAN GRANDE",
-              "CATALUNAN PEQUE\u00d1O",
+              "CATALUNAN PEQUEÑO",
               "CATIGAN",
               "CAWAYAN",
               "CENTRO (SAN JUAN)",
@@ -38970,7 +38970,7 @@
               "SALOY",
               "SAN ANTONIO",
               "SAN ISIDRO (LICANAN)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SASA",
               "SIBULAN",
               "SIRAWAN",
@@ -39088,7 +39088,7 @@
               "SAN ISIDRO",
               "SAN JOSE",
               "SAN PEDRO",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TACUB",
               "TACUL",
               "WATERFALL"
@@ -39179,7 +39179,7 @@
           "PADADA": {
             "barangay_list": [
               "ALMENDRAS (POB.)",
-              "DON SERGIO OSME\u00d1A, SR.",
+              "DON SERGIO OSMEÑA, SR.",
               "HARADA BUTAI",
               "LOWER KATIPUNAN",
               "LOWER LIMONZO",
@@ -39235,7 +39235,7 @@
               "LUPARAN",
               "MCKINLEY",
               "NEW CEBU",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PALILI",
               "PARAME",
               "POBLACION",
@@ -39356,7 +39356,7 @@
               "SAN JUAN",
               "SAN PEDRO",
               "SAN ROQUE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO",
               "TANGLAD"
             ]
@@ -39488,7 +39488,7 @@
               "OREGON",
               "POBLACION",
               "PUNDAGUITAN",
-              "SERGIO OSME\u00d1A",
+              "SERGIO OSMEÑA",
               "SUROP",
               "TAGABEBE",
               "TAMBAN",
@@ -39705,7 +39705,7 @@
               "NAPALICO",
               "SALASANG",
               "SAN MIGUEL",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SUMALILI",
               "TUMANDING"
             ]
@@ -39802,7 +39802,7 @@
               "POBLACION",
               "SAN ISIDRO",
               "SAN ROQUE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIBAWAN",
               "SIKITAN",
               "SINGAO",
@@ -39975,7 +39975,7 @@
               "SAGUING",
               "SAN VICENTE",
               "SANTA FELOMINA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SINKATULAN",
               "TALUNTALUNAN",
               "VILLAFLORES"
@@ -40468,7 +40468,7 @@
           "KORONADAL CITY": {
             "barangay_list": [
               "ASSUMPTION (BULOL)",
-              "AVANCE\u00d1A (BO. 3)",
+              "AVANCEÑA (BO. 3)",
               "CACUB",
               "CALOOCAN",
               "CARPENTER HILL",
@@ -40487,7 +40487,7 @@
               "SAN JOSE (BO. 5)",
               "SAN ROQUE",
               "SANTA CRUZ",
-              "SANTO NI\u00d1O (BO. 2)",
+              "SANTO NIÑO (BO. 2)",
               "SARABIA (BO. 8)",
               "ZONE I (POB.)",
               "ZONE II (POB.)",
@@ -40564,7 +40564,7 @@
               "UPPER KLINAN"
             ]
           },
-          "SANTO NI\u00d1O": {
+          "SANTO NIÑO": {
             "barangay_list": [
               "AMBALGAN",
               "GUINSANG-AN",
@@ -40701,7 +40701,7 @@
               "MASIAG",
               "MONTEVERDE",
               "POBLACION",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SISON",
               "SOUTH SEPAKA",
               "SUMILIL",
@@ -41024,7 +41024,7 @@
           "BUTUAN CITY": {
             "barangay_list": [
               "AGAO POB. (BGY. 3)",
-              "AGUSAN PEQUE\u00d1O",
+              "AGUSAN PEQUEÑO",
               "AMBAGO",
               "AMPARO",
               "AMPAYON",
@@ -41096,7 +41096,7 @@
               "SAN IGNACIO POB. (BGY. 15)",
               "SAN MATEO",
               "SAN VICENTE",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SIKATUNA POB. (BGY. 10)",
               "SILONGAN POB. (BGY. 5)",
               "SUMILE",
@@ -41174,7 +41174,7 @@
               "SAN JOSE",
               "SAN PABLO",
               "SAN VICENTE",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "KITCHARAO": {
@@ -41223,7 +41223,7 @@
               "GUIASAN",
               "MARCOS",
               "POBLACION",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO ROSARIO",
               "TAOD-OY"
             ]
@@ -41280,8 +41280,8 @@
             "barangay_list": [
               "BINUANGAN",
               "CABAYAWA",
-              "DO\u00d1A ROSARIO",
-              "DO\u00d1A TELESFORA",
+              "DOÑA ROSARIO",
+              "DOÑA TELESFORA",
               "LA FRATERNIDAD",
               "LAWIGAN",
               "POBLACION 1",
@@ -41323,7 +41323,7 @@
               "MT. OLIVE",
               "NEW SALEM",
               "NOLI",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PANAYTAY",
               "PINAGALAAN",
               "POBLACION",
@@ -41335,7 +41335,7 @@
               "SAN JUAN",
               "SANTA IRENE",
               "SANTA TERESITA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAGLATAWAN",
               "TAGLIBAS",
               "TAGUBAY",
@@ -41418,7 +41418,7 @@
               "KASAPA II",
               "LANGASIAN",
               "LYDIA",
-              "OSME\u00d1A, SR.",
+              "OSMEÑA, SR.",
               "PANAGANGAN",
               "POBLACION",
               "SABANG ADGAWAN",
@@ -41443,7 +41443,7 @@
               "SAN MARIANO",
               "SAN VICENTE",
               "SANTA TERESA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTO TOMAS",
               "VIOLANTA",
               "WALOE"
@@ -41543,8 +41543,8 @@
               "DIMASALANG",
               "DON ALEJANDRO",
               "DON PEDRO",
-              "DO\u00d1A FLAVIA",
-              "DO\u00d1A MAXIMA",
+              "DOÑA FLAVIA",
+              "DOÑA MAXIMA",
               "MAHAGSAY",
               "MAHAPAG",
               "MAHAYAHAY",
@@ -41679,7 +41679,7 @@
               "CORING",
               "CORTES",
               "DIEGAS",
-              "DO\u00d1A HELENE",
+              "DOÑA HELENE",
               "EDERA",
               "FERDINAND",
               "GEOTINA",
@@ -41694,7 +41694,7 @@
               "ROMA",
               "ROXAS",
               "SANTA MONICA",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SERING",
               "SOMBRADO",
               "TAG-ABACA",
@@ -41741,19 +41741,19 @@
               "ALBOR (POB.)",
               "ARELLANO",
               "BAYANIHAN",
-              "DO\u00d1A HELEN",
+              "DOÑA HELEN",
               "GARCIA",
               "GENERAL AGUINALDO (BOLOD-BOLOD)",
               "KANIHAAN",
               "LLAMERA",
               "MAGSAYSAY",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "PLARIDEL",
               "QUEZON",
               "ROSITA",
               "SAN ANTONIO (POB.)",
               "SAN JOSE",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "LORETO": {
@@ -41885,7 +41885,7 @@
               "DON PAULINO",
               "JUBANG",
               "MONTSERRAT",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "SAN CARLOS",
               "SAN MIGUEL",
               "SANTA FE",
@@ -42079,7 +42079,7 @@
               "ROXAS",
               "SAN MIGUEL",
               "SANTA PAZ",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "TAMBACAN",
               "TIGASAO"
             ]
@@ -42504,7 +42504,7 @@
               "PONG-ON",
               "PONGTOD",
               "SALVACION",
-              "SANTO NI\u00d1O"
+              "SANTO NIÑO"
             ]
           },
           "SAN MIGUEL": {
@@ -42533,7 +42533,7 @@
             "barangay_list": [
               "BATUNAN",
               "CARPENITO",
-              "DO\u00d1A CARMEN",
+              "DOÑA CARMEN",
               "HINAGDANAN",
               "KAHAYAGAN",
               "LAGO",
@@ -42542,7 +42542,7 @@
               "MAGSAYSAY",
               "MALIXI",
               "MANAMBIA",
-              "OSME\u00d1A",
+              "OSMEÑA",
               "POBLACION",
               "QUEZON",
               "SAN VICENTE",
@@ -42794,7 +42794,7 @@
               "LANTAWAN PROPER (POB.)",
               "LAWI-LAWI",
               "LAWILA",
-              "LOWER BA\u00d1AS",
+              "LOWER BAÑAS",
               "LOWER MANGGAS",
               "LUUK-MALUHA",
               "MATARLING",
@@ -42805,7 +42805,7 @@
               "SUBA-AN (PANGASAHAN)",
               "SWITCH YAKAL",
               "TAIRAN",
-              "UPPER BA\u00d1AS",
+              "UPPER BAÑAS",
               "UPPER MANGGAS"
             ]
           },
@@ -45701,7 +45701,7 @@
               "AGTANGAO",
               "ANGAD",
               "BANGBANGAR",
-              "BA\u00d1ACAO",
+              "BAÑACAO",
               "CABULOAN",
               "CALABA",
               "COSILI EAST (PROPER)",
@@ -45938,7 +45938,7 @@
               "SANTO TOMAS"
             ]
           },
-          "PE\u00d1ARRUBIA": {
+          "PEÑARRUBIA": {
             "barangay_list": [
               "DUMAYCO",
               "LUSUAC",
@@ -46238,7 +46238,7 @@
               "CABATACAN",
               "CACALAGGAN",
               "CAPANNIKIAN",
-              "DO\u00d1A LORETA",
+              "DOÑA LORETA",
               "EMILIA",
               "IMELDA",
               "LOWER MATON",
@@ -46380,7 +46380,7 @@
               "PACDAL",
               "PADRE BURGOS",
               "PADRE ZAMORA",
-              "PALMA-URBANO (CARI\u00d1O-PALMA)",
+              "PALMA-URBANO (CARIÑO-PALMA)",
               "PHIL-AM",
               "PINGET",
               "PINSAO PILOT PROJECT",
@@ -46412,7 +46412,7 @@
               "SANTO TOMAS SCHOOL AREA",
               "SCOUT BARRIO",
               "SESSION ROAD AREA",
-              "SLAUGHTER HOUSE AREA (SANTO NI\u00d1O SLAUGHTER)",
+              "SLAUGHTER HOUSE AREA (SANTO NIÑO SLAUGHTER)",
               "SLU-SVP HOUSING VILLAGE",
               "SOUTH DRIVE",
               "TEODORA ALONZO",
@@ -47209,7 +47209,7 @@
     "province_list": {
       "NATIONAL CAPITAL REGION - FOURTH DISTRICT": {
         "municipality_list": {
-          "CITY OF LAS PI\u00d1AS": {
+          "CITY OF LAS PIÑAS": {
             "barangay_list": [
               "ALMANZA DOS",
               "ALMANZA UNO",
@@ -47240,7 +47240,7 @@
               "CARMONA",
               "CEMBO",
               "COMEMBO",
-              "DASMARI\u00d1AS",
+              "DASMARIÑAS",
               "EAST REMBO",
               "FORBES PARK",
               "GUADALUPE NUEVO",
@@ -47283,7 +47283,7 @@
               "TUNASAN"
             ]
           },
-          "CITY OF PARA\u00d1AQUE": {
+          "CITY OF PARAÑAQUE": {
             "barangay_list": [
               "B. F. HOMES",
               "BACLARAN",
@@ -47297,7 +47297,7 @@
               "SAN DIONISIO",
               "SAN ISIDRO",
               "SAN MARTIN DE PORRES",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SUN VALLEY",
               "TAMBO",
               "VITALEZ"
@@ -48488,8 +48488,8 @@
               "MALAMIG",
               "MAUWAY",
               "NAMAYAN",
-              "NEW ZA\u00d1IGA",
-              "OLD ZA\u00d1IGA",
+              "NEW ZAÑIGA",
+              "OLD ZAÑIGA",
               "PAG-ASA",
               "PLAINVIEW",
               "PLEASANT HILLS",
@@ -48507,15 +48507,15 @@
               "CONCEPCION UNO",
               "FORTUNE",
               "INDUSTRIAL VALLEY",
-              "JESUS DE LA PE\u00d1A",
+              "JESUS DE LA PEÑA",
               "MALANDAY",
               "MARIKINA HEIGHTS (CONCEPCION)",
               "NANGKA",
               "PARANG",
               "SAN ROQUE",
               "SANTA ELENA (POB.)",
-              "SANTO NI\u00d1O",
-              "TA\u00d1ONG",
+              "SANTO NIÑO",
+              "TAÑONG",
               "TUMANA"
             ]
           },
@@ -48587,8 +48587,8 @@
               "DEL MONTE",
               "DIOQUINO ZOBEL",
               "DON MANUEL",
-              "DO\u00d1A IMELDA",
-              "DO\u00d1A JOSEFA",
+              "DOÑA IMELDA",
+              "DOÑA JOSEFA",
               "DUYAN-DUYAN",
               "E. RODRIGUEZ",
               "EAST KAMIAS",
@@ -48671,7 +48671,7 @@
               "SANTA TERESITA",
               "SANTO CRISTO",
               "SANTO DOMINGO (MATALAHIB)",
-              "SANTO NI\u00d1O",
+              "SANTO NIÑO",
               "SANTOL",
               "SAUYO",
               "SIENNA",
@@ -48705,7 +48705,7 @@
               "BALONG-BATO",
               "BATIS",
               "CORAZON DE JESUS",
-              "ERMITA\u00d1O",
+              "ERMITAÑO",
               "GREENHILLS",
               "HALO-HALO (ST. JOSEPH)",
               "ISABELITA",
@@ -48713,7 +48713,7 @@
               "LITTLE BAGUIO",
               "MAYTUNAS",
               "ONSE",
-              "PASADE\u00d1A",
+              "PASADEÑA",
               "PEDRO CRUZ",
               "PROGRESO",
               "RIVERA",
@@ -48976,7 +48976,7 @@
               "POTRERO",
               "SAN AGUSTIN",
               "SANTOLAN",
-              "TA\u00d1ONG (POB.)",
+              "TAÑONG (POB.)",
               "TINAJEROS",
               "TONSUYA",
               "TUGATOG"
